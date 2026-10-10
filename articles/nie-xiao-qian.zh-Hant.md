@@ -44,7 +44,7 @@
 - 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970
 - 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
 
-## 全部在售商品（41）
+## 全部在售商品（44）
 
 | 商品號 | 購買 |
 |---|---|
@@ -89,6 +89,9 @@
 | 秦琼 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970 |
 | 程咬金 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970 |
 | 岳飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970 |
+| 探春 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970 |
+| 史湘云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970 |
+| 白骨精 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970 |
 
 ## 🛡️ Copyright
 

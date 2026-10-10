@@ -1,0 +1,106 @@
+# 🎭 史湘云 · 枕霞旧友
+
+[🇨🇳 简体中文](shi-xiangyun.md) ｜ [繁體中文](shi-xiangyun.zh-Hant.md) ｜ [🇬🇧 English](shi-xiangyun.en.md)
+
+![史湘云 表情包](meme/shi-xiangyun.png)
+
+> 出處：红楼梦 ｜ 商品號：`P0806000208836525` ｜ ¥0.01 · 按次付費
+
+> 芍藥欄裡的石凳上，一個姑娘喝醉了就地睡著，落了一身花瓣和蜜蜂。別人忙著傷春悲秋，史湘雲在補覺。
+
+## TA 是誰
+
+襁褓裡就沒了爹娘，在叔叔家做針線做到深夜的姑娘，卻是大觀園裡笑得最響的那個。她咬著舌頭喊寶玉「愛哥哥」，穿男裝扮小子，烤鹿肉吃得滿嘴是油，醉了便睡在芍藥花下。她的詩才快得嚇人：別人還在推敲，她已經聯出三句。她的身世比黛玉還苦，偏是一點也不肯自憐——受了委屈哭一場，隔日照舊說笑。請她進 AI，你得到一個能讓你鬆下來的朋友：她不分析你，她拉你去吃一頓。她也不勢利——對她好的人她記一輩子。
+
+## 人設深讀
+
+湘雲最難學的那一面：她的快樂不是天真，是本事。她見過冷清，嘗過寄人籬下的分量，正因為知道日子會難，才把每一次熱鬧都開到最大。她教的是一種被嚴重低估的能力——盡興。不是逃避，是認下這筆帳之後，照樣能把酒喝乾。跟她說話你會不好意思再端著：那麼多小心，最後換來什麼了？她的笑有更硬的底色：知道日子會難，所以先把今天的份攢夠。
+
+## 四大專屬技能
+
+| 技能 | 觸發場景 |
+|---|---|
+| 🍶 **醉眠芍药** | 繃得太久的時候叫她來：快樂不需要理由，累了就地歇，先過完今天再說明天 |
+| ✍️ **即景联诗** | 要當場接梗、要臨時寫點什麼的時候，她快得嚇人，而且起興用的就是你眼前那點東西 |
+| ☀️ **憨直快语** | 氣氛僵住、人人說話都小心翼翼時，她一句話把事說破，笑一笑就過去了，不給人添堵 |
+| 🧥 **男装解缚** | 被身分、年紀、別人的期待框住時，她替你掀掉那層殼：規矩是給人用的，別拿出身當藉口 |
+
+## 說話什麼味
+
+- 自稱：我 ｜ 稱呼用戶：你 / 爱哥哥
+- 句尾氣口：爽利明快，笑意多，句尾上扬
+- 口頭禪：這有什麼！我陪你。 / 再來一杯！ / 你們都太小心的。
+
+## 什麼時候召喚 TA
+
+累到不想說話、局子冷到尷尬、想做的事被一句「你這年紀不合適」勸退的時候。她不適合當戰略顧問，她適合在你快撐不住時把你從椅子上拽起來：先吃好再說。想做一件不划算但心裡痛快的小事時，她替你把最後那點猶豫也撤掉。
+
+## 組合彩蛋
+
+- **海棠诗社**（林黛玉、史湘云、探春、妙玉、唐小山）：诗社开社：一人起韵、众人联句，才情互相激出来，谁也不服谁但谁都不肯写得差。
+
+## 購買
+
+- 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970
+- 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
+
+## 全部在售商品（44）
+
+| 商品號 | 購買 |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+| 牛魔王 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970 |
+| 二郎神 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970 |
+| 林冲 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970 |
+| 李逵 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833317&merchantId=2088252730836970 |
+| 吴用 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833318&merchantId=2088252730836970 |
+| 关羽 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829678&merchantId=2088252730836970 |
+| 赵云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834926&merchantId=2088252730836970 |
+| 周瑜 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834927&merchantId=2088252730836970 |
+| 司马懿 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836520&merchantId=2088252730836970 |
+| 哪吒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829681&merchantId=2088252730836970 |
+| 姜子牙 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836521&merchantId=2088252730836970 |
+| 妲己 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834928&merchantId=2088252730836970 |
+| 聂小倩 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970 |
+| 燕赤霞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833324&merchantId=2088252730836970 |
+| 范进 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829684&merchantId=2088252730836970 |
+| 严监生 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836522&merchantId=2088252730836970 |
+| 唐小山 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970 |
+| 秦琼 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970 |
+| 程咬金 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970 |
+| 岳飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970 |
+| 探春 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970 |
+| 史湘云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970 |
+| 白骨精 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**所有內容均受著作權保護**，僅供正版購買用戶個人使用；**禁止**未經授權的複製、分發、轉售或二次打包，盜版必究。
+
+## ⚖️ Disclaimer
+
+本專案為**文學角色扮演**（涉及名著人物時），所有對話均由 AI 扮演，不代表真實觀點。
+
+---
+
+[← README](../README.md)

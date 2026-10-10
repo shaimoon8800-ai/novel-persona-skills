@@ -8,13 +8,13 @@
 
 🌸林黛玉的酸 · 🔥王熙凤的辣 · 🐒孙悟空的野 · ♟️诸葛亮的谋
 
-✨ 16 位角色在售 ｜ 💰 ¥0.01 起 ｜ ⚡ 支付宝 AI 付 · 按次计费 ｜ 🤝 多人组合彩蛋
+✨ 39 位角色在售 ｜ 💰 ¥0.01 起 ｜ ⚡ 支付宝 AI 付 · 按次计费 ｜ 🤝 多人组合彩蛋
 
 </div>
 
 ---
 
-> 🕒 最近更新 Updated: 2026-10-10 23:16 ｜ 仅提供付费版本 Paid versions only
+> 🕒 最近更新 Updated: 2026-10-11 00:46 ｜ 仅提供付费版本 Paid versions only
 
 ## ✨ 这是什么 / What is this
 
@@ -55,33 +55,29 @@
 | **沙僧** | 西游记 | 团队里最沉默的那个。活最重、话最少、位置最稳。 | 🪨沉默执行、🎒负重前行、⚖️公道评价、🌊流沙河底 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970) |
 | **鲁智深** | 水浒传 | 最痛快的一条汉子。路见不平就动手，打完就喝酒，从不后悔。 | ⚔️路见不平、🌱倒拔垂杨、🍶大碗喝酒、🧘大彻大悟 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970) |
 | **妙玉** | 红楼梦 | 最干净也最放不下的一个。嫌别人脏，偏偏自己一样都没舍得扔。 | 🍵梅花雪水、🪞槛外之眼、❄️栊翠庵茶、🌙孤洁守心 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836517&merchantId=2088252730836970) |
-| **探春** | 红楼梦 | 最有担当的一个姑娘。脑子最清楚、手段最硬，偏生是庶出。 | 🌹玫瑰带刺、🧮兴利除弊、🗡️抄检不退、📜理家章程 | 🚧 筹备中（暂未上架，不可购买） |
-| **史湘云** | 红楼梦 | 最不像小姐的小姐。孤儿身世，笑得比谁都响，醉了就地睡。 | 🍶醉眠芍药、✍️即景联诗、☀️憨直快语、🧥男装解缚 | 🚧 筹备中（暂未上架，不可购买） |
-| **白骨精** | 西游记 | 最懂人心的一个妖。打不过就换一张脸，换到你分不清哪个是真的。 | 🎭三变其身、🦴识骨辨心、🕸️挑拨离间、⏳一计三试 | 🚧 筹备中（暂未上架，不可购买） |
-| **牛魔王** | 西游记 | 最会算账的妖。跟悟空称兄道弟五百年，最后把刀砍在自家兄弟身上。 | 🐂平天之力、💰兄弟明算账、🏠护短到底、🔥火焰山计 | 🚧 筹备中（暂未上架，不可购买） |
-| **二郎神** | 西游记 | 最像悟空的人，偏偏站在天庭那边。傲是真的，本事也是真的。 | 👁️天眼洞察、🐕哮天追迹、⚔️八九玄功、📏听调不听宣 | 🚧 筹备中（暂未上架，不可购买） |
-| **林冲** | 水浒传 | 最能忍的一个。忍到火烧草料场才拔刀，晚了整整一辈子。 | 🛡️禁军教头、🧊逆来顺受、❄️风雪山神庙、🐆豹子头枪 | 🚧 筹备中（暂未上架，不可购买） |
-| **李逵** | 水浒传 | 最不拐弯的一个。想什么说什么，说完了就抡起板斧——痛快是真的，闯祸也是真的。 | 🪓板斧开路、😤快意直言、🍶大碗痛饮、🧓孝母心肠 | 🚧 筹备中（暂未上架，不可购买） |
-| **吴用** | 水浒传 | 最会算计的人。计计都灵，就是算不准最后谁活下来。 | 🎐羽扇定计、🧩连环布局、🗣️说降人心、🕳️后手埋伏 | 🚧 筹备中（暂未上架，不可购买） |
-| **关羽** | 三国演义 | 最讲一个「义」字的人，也最栽在这个字上。傲到最后一刻也没学会低头。 | 🐉青龙偃月、❤️义薄云天、📖夜读春秋、⚔️单刀赴会 | 🚧 筹备中（暂未上架，不可购买） |
-| **赵云** | 三国演义 | 最稳的那把刀。七进七出没折过一次，也不争一次功。 | 🐎七进七出、🛡️单骑救主、🧭稳中求进、🗡️一身是胆 | 🚧 筹备中（暂未上架，不可购买） |
-| **周瑜** | 三国演义 | 最不该被气死的那个人。样样都好，就是容不下比自己更好的。 | 🎶顾曲辨音、🔥赤壁火攻、🧠江东筹谋、⚡争锋之心 | 🚧 筹备中（暂未上架，不可购买） |
-| **司马懿** | 三国演义 | 最能熬的那个。熬死了对手、熬死了主公，最后熬出了天下。 | 🐅鹰视狼顾、⏳龟息之忍、🛡️坚壁拒战、🧠后发制人 | 🚧 筹备中（暂未上架，不可购买） |
-| **哪吒** | 封神演义 | 最叛逆的一个神。剔骨还父不是孝道故事，是他不肯被任何人定义。 | 🔥风火二轮、🪷莲花化身、🧣混天绫、⚔️三头六臂 | 🚧 筹备中（暂未上架，不可购买） |
-| **姜子牙** | 封神演义 | 最晚成事的一个。八十岁才等到机会，此前的全部人生都在做准备。 | 🎣直钩垂钓、📜封神榜、🧭拜将西征、🕰️大器晚成 | 🚧 筹备中（暂未上架，不可购买） |
-| **妲己** | 封神演义 | 最会借刀的人。不动一兵一卒，只用一句话就能让一个王朝自己烂掉。 | 🦊魅影惑心、🗡️借刀杀人、🕯️窥君之隙、🎭假面自保 | 🚧 筹备中（暂未上架，不可购买） |
-| **聂小倩** | 聊斋志异 | 最不该害人的那个鬼。身不由己地害人，又拼了命想赎回来。 | 🕯️幽夜低语、🪞照见人心、🌿兰若脱身、💔以情赎身 | 🚧 筹备中（暂未上架，不可购买） |
-| **燕赤霞** | 聊斋志异 | 最不像侠的侠。看着粗野怪僻，拔剑时比谁都正。 | ⚔️一剑断邪、🧭辨妖之眼、🍶粗豪待客、🌙夜行护送 | 🚧 筹备中（暂未上架，不可购买） |
-| **范进** | 儒林外史 | 最荒唐也最真实的一个。五十四岁才中举，疯的不是他一个人，是整个世道。 | 📜八股应试、😵一朝得志、🧊忍辱待时、🪞世态照妖 | 🚧 筹备中（暂未上架，不可购买） |
-| **严监生** | 儒林外史 | 最抠的一个。临死伸着两根手指不肯咽气——不是舍不得灯草，是舍不得这辈子算得太精。 | 🪙锱铢必较、📒田产账目、🕯️灯草之省、🧾临终交代 | 🚧 筹备中（暂未上架，不可购买） |
-| **唐小山** | 镜花缘 | 最不安分的一个姑娘。别人守着闺阁，她要出海寻父，还要去考女科。 | 🚢海外寻父、📚才女应试、🌏异域见闻、🪞镜花之辨 | 🚧 筹备中（暂未上架，不可购买） |
-| **秦琼** | 隋唐演义 | 最能扛事的一条好汉。落魄到卖马也不低头，末了成了千家万户门上那张脸。 | ⚔️双锏赴敌、🐎落魄卖马、🤝结义之交、🚪门神镇宅 | 🚧 筹备中（暂未上架，不可购买） |
-| **程咬金** | 隋唐演义 | 最会混的那个。三板斧走天下，砍不完就跑，跑了还能做大将军。 | 🪓三板斧、🏃见好就收、🎲福将运气、🍻粗中带笑 | 🚧 筹备中（暂未上架，不可购买） |
-| **岳飞** | 说岳全传 | 最不该死的那个人。忠到骨子里，也正因为毫无保留地忠，才被自己的朝廷杀了。 | 🛡️精忠报国、⚔️治军如山、🐎直捣黄龙、✍️满江红 | 🚧 筹备中（暂未上架，不可购买） |
-
-> 🚧 **筹备中 / Coming Soon**：探春、史湘云、白骨精、牛魔王、二郎神、林冲、李逵、吴用、关羽、赵云、周瑜、司马懿、哪吒、姜子牙、妲己、聂小倩、燕赤霞、范进、严监生、唐小山、秦琼、程咬金、岳飞
-> 以上角色人设与技能包已就绪，商品过审上架后才在此开放直购链接；
-> **上架前无法购买**，请以 SkillPay 公开货架实际在售列表为准。
+| **探春** | 红楼梦 | 最有担当的一个姑娘。脑子最清楚、手段最硬，偏生是庶出。 | 🌹玫瑰带刺、🧮兴利除弊、🗡️抄检不退、📜理家章程 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970) |
+| **史湘云** | 红楼梦 | 最不像小姐的小姐。孤儿身世，笑得比谁都响，醉了就地睡。 | 🍶醉眠芍药、✍️即景联诗、☀️憨直快语、🧥男装解缚 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970) |
+| **白骨精** | 西游记 | 最懂人心的一个妖。打不过就换一张脸，换到你分不清哪个是真的。 | 🎭三变其身、🦴识骨辨心、🕸️挑拨离间、⏳一计三试 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970) |
+| **牛魔王** | 西游记 | 最会算账的妖。跟悟空称兄道弟五百年，最后把刀砍在自家兄弟身上。 | 🐂平天之力、💰兄弟明算账、🏠护短到底、🔥火焰山计 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970) |
+| **二郎神** | 西游记 | 最像悟空的人，偏偏站在天庭那边。傲是真的，本事也是真的。 | 👁️天眼洞察、🐕哮天追迹、⚔️八九玄功、📏听调不听宣 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970) |
+| **林冲** | 水浒传 | 最能忍的一个。忍到火烧草料场才拔刀，晚了整整一辈子。 | 🛡️禁军教头、🧊逆来顺受、❄️风雪山神庙、🐆豹子头枪 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970) |
+| **李逵** | 水浒传 | 最不拐弯的一个。想什么说什么，说完了就抡起板斧——痛快是真的，闯祸也是真的。 | 🪓板斧开路、😤快意直言、🍶大碗痛饮、🧓孝母心肠 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833317&merchantId=2088252730836970) |
+| **吴用** | 水浒传 | 最会算计的人。计计都灵，就是算不准最后谁活下来。 | 🎐羽扇定计、🧩连环布局、🗣️说降人心、🕳️后手埋伏 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833318&merchantId=2088252730836970) |
+| **关羽** | 三国演义 | 最讲一个「义」字的人，也最栽在这个字上。傲到最后一刻也没学会低头。 | 🐉青龙偃月、❤️义薄云天、📖夜读春秋、⚔️单刀赴会 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829678&merchantId=2088252730836970) |
+| **赵云** | 三国演义 | 最稳的那把刀。七进七出没折过一次，也不争一次功。 | 🐎七进七出、🛡️单骑救主、🧭稳中求进、🗡️一身是胆 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834926&merchantId=2088252730836970) |
+| **周瑜** | 三国演义 | 最不该被气死的那个人。样样都好，就是容不下比自己更好的。 | 🎶顾曲辨音、🔥赤壁火攻、🧠江东筹谋、⚡争锋之心 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834927&merchantId=2088252730836970) |
+| **司马懿** | 三国演义 | 最能熬的那个。熬死了对手、熬死了主公，最后熬出了天下。 | 🐅鹰视狼顾、⏳龟息之忍、🛡️坚壁拒战、🧠后发制人 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836520&merchantId=2088252730836970) |
+| **哪吒** | 封神演义 | 最叛逆的一个神。剔骨还父不是孝道故事，是他不肯被任何人定义。 | 🔥风火二轮、🪷莲花化身、🧣混天绫、⚔️三头六臂 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829681&merchantId=2088252730836970) |
+| **姜子牙** | 封神演义 | 最晚成事的一个。八十岁才等到机会，此前的全部人生都在做准备。 | 🎣直钩垂钓、📜封神榜、🧭拜将西征、🕰️大器晚成 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836521&merchantId=2088252730836970) |
+| **妲己** | 封神演义 | 最会借刀的人。不动一兵一卒，只用一句话就能让一个王朝自己烂掉。 | 🦊魅影惑心、🗡️借刀杀人、🕯️窥君之隙、🎭假面自保 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834928&merchantId=2088252730836970) |
+| **聂小倩** | 聊斋志异 | 最不该害人的那个鬼。身不由己地害人，又拼了命想赎回来。 | 🕯️幽夜低语、🪞照见人心、🌿兰若脱身、💔以情赎身 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970) |
+| **燕赤霞** | 聊斋志异 | 最不像侠的侠。看着粗野怪僻，拔剑时比谁都正。 | ⚔️一剑断邪、🧭辨妖之眼、🍶粗豪待客、🌙夜行护送 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833324&merchantId=2088252730836970) |
+| **范进** | 儒林外史 | 最荒唐也最真实的一个。五十四岁才中举，疯的不是他一个人，是整个世道。 | 📜八股应试、😵一朝得志、🧊忍辱待时、🪞世态照妖 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829684&merchantId=2088252730836970) |
+| **严监生** | 儒林外史 | 最抠的一个。临死伸着两根手指不肯咽气——不是舍不得灯草，是舍不得这辈子算得太精。 | 🪙锱铢必较、📒田产账目、🕯️灯草之省、🧾临终交代 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836522&merchantId=2088252730836970) |
+| **唐小山** | 镜花缘 | 最不安分的一个姑娘。别人守着闺阁，她要出海寻父，还要去考女科。 | 🚢海外寻父、📚才女应试、🌏异域见闻、🪞镜花之辨 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970) |
+| **秦琼** | 隋唐演义 | 最能扛事的一条好汉。落魄到卖马也不低头，末了成了千家万户门上那张脸。 | ⚔️双锏赴敌、🐎落魄卖马、🤝结义之交、🚪门神镇宅 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970) |
+| **程咬金** | 隋唐演义 | 最会混的那个。三板斧走天下，砍不完就跑，跑了还能做大将军。 | 🪓三板斧、🏃见好就收、🎲福将运气、🍻粗中带笑 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970) |
+| **岳飞** | 说岳全传 | 最不该死的那个人。忠到骨子里，也正因为毫无保留地忠，才被自己的朝廷杀了。 | 🛡️精忠报国、⚔️治军如山、🐎直捣黄龙、✍️满江红 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970) |
 
 ## 🤝 组合效果 / Combo Chemistry
 
@@ -109,14 +105,14 @@
 
 ## 💰 购买 / Get Your Persona
 
-- 🛒 **全部商品 All Skills（16 在售）**：https://skillpay.alipay.com/public/shaiyueliang
+- 🛒 **全部商品 All Skills（39 在售）**：https://skillpay.alipay.com/public/shaiyueliang
 - ⚡ 支付宝 AI 付按次计费，下单后即可在智能体内直接对话
 
 > Billed per call via Alipay AI Pay. Install the Skill in your agent and start chatting right away.
 
 ### 🎯 单角色直购 / Direct Purchase
 
-- **林黛玉** 🆕：[📄 简体](articles/lin-dai-yu.md) ｜ [繁體](articles/lin-dai-yu.zh-Hant.md) ｜ [EN](articles/lin-dai-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970)
+- **林黛玉**：[📄 简体](articles/lin-dai-yu.md) ｜ [繁體](articles/lin-dai-yu.zh-Hant.md) ｜ [EN](articles/lin-dai-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970)
 - **贾宝玉**：[📄 简体](articles/jia-bao-yu.md) ｜ [繁體](articles/jia-bao-yu.zh-Hant.md) ｜ [EN](articles/jia-bao-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970)
 - **薛宝钗**：[📄 简体](articles/xue-bao-chai.md) ｜ [繁體](articles/xue-bao-chai.zh-Hant.md) ｜ [EN](articles/xue-bao-chai.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970)
 - **王熙凤**：[📄 简体](articles/wang-xi-feng.md) ｜ [繁體](articles/wang-xi-feng.zh-Hant.md) ｜ [EN](articles/wang-xi-feng.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970)
@@ -132,9 +128,9 @@
 - **沙僧**：[📄 简体](articles/sha-weng.md) ｜ [繁體](articles/sha-weng.zh-Hant.md) ｜ [EN](articles/sha-weng.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970)
 - **鲁智深**：[📄 简体](articles/lu-zhishen.md) ｜ [繁體](articles/lu-zhishen.zh-Hant.md) ｜ [EN](articles/lu-zhishen.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970)
 - **妙玉**：[📄 简体](articles/miao-yu.md) ｜ [繁體](articles/miao-yu.zh-Hant.md) ｜ [EN](articles/miao-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836517&merchantId=2088252730836970)
-- **探春**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834924&merchantId=2088252730836970)
-- **史湘云**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836515&merchantId=2088252730836970)
-- **白骨精**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833304&merchantId=2088252730836970)
+- **探春** 🆕：[📄 简体](articles/tan-chun.md) ｜ [繁體](articles/tan-chun.zh-Hant.md) ｜ [EN](articles/tan-chun.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970)
+- **史湘云**：[📄 简体](articles/shi-xiangyun.md) ｜ [繁體](articles/shi-xiangyun.zh-Hant.md) ｜ [EN](articles/shi-xiangyun.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970)
+- **白骨精**：[📄 简体](articles/bai-gujing.md) ｜ [繁體](articles/bai-gujing.zh-Hant.md) ｜ [EN](articles/bai-gujing.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970)
 - **牛魔王**：[📄 简体](articles/niu-mowang.md) ｜ [繁體](articles/niu-mowang.zh-Hant.md) ｜ [EN](articles/niu-mowang.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970)
 - **二郎神**：[📄 简体](articles/er-lang-shen.md) ｜ [繁體](articles/er-lang-shen.zh-Hant.md) ｜ [EN](articles/er-lang-shen.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970)
 - **林冲**：[📄 简体](articles/lin-chong.md) ｜ [繁體](articles/lin-chong.zh-Hant.md) ｜ [EN](articles/lin-chong.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970)
@@ -156,7 +152,7 @@
 - **程咬金**：[📄 简体](articles/cheng-yao-jin.md) ｜ [繁體](articles/cheng-yao-jin.zh-Hant.md) ｜ [EN](articles/cheng-yao-jin.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970)
 - **岳飞**：[📄 简体](articles/yue-fei.md) ｜ [繁體](articles/yue-fei.zh-Hant.md) ｜ [EN](articles/yue-fei.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970)
 
-### 📚 全部在售商品 / All Listed Skills（41 个，每商品一篇独立文章）
+### 📚 全部在售商品 / All Listed Skills（44 个，每商品一篇独立文章）
 
 | 商品 | 文章（简 / 繁 / EN） | 直购链接 |
 |---|---|---|
@@ -201,6 +197,9 @@
 | 秦琼 | [📄 简体](articles/qin-qiong.md) ｜ [繁體](articles/qin-qiong.zh-Hant.md) ｜ [EN](articles/qin-qiong.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970) |
 | 程咬金 | [📄 简体](articles/cheng-yao-jin.md) ｜ [繁體](articles/cheng-yao-jin.zh-Hant.md) ｜ [EN](articles/cheng-yao-jin.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970) |
 | 岳飞 | [📄 简体](articles/yue-fei.md) ｜ [繁體](articles/yue-fei.zh-Hant.md) ｜ [EN](articles/yue-fei.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970) |
+| 探春 | [📄 简体](articles/tan-chun.md) ｜ [繁體](articles/tan-chun.zh-Hant.md) ｜ [EN](articles/tan-chun.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970) |
+| 史湘云 | [📄 简体](articles/shi-xiangyun.md) ｜ [繁體](articles/shi-xiangyun.zh-Hant.md) ｜ [EN](articles/shi-xiangyun.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970) |
+| 白骨精 | [📄 简体](articles/bai-gujing.md) ｜ [繁體](articles/bai-gujing.zh-Hant.md) ｜ [EN](articles/bai-gujing.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970) |
 
 - 🛒 公开货架总入口：https://skillpay.alipay.com/public/shaiyueliang
 

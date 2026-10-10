@@ -44,7 +44,7 @@ When you want to quit and don't dare; when you want to defend someone and stand 
 - 🎯 **Direct purchase (this product)**：https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970
 - 🛒 **Public shelf (all skills)**：https://skillpay.alipay.com/public/shaiyueliang
 
-## All Listed Skills（41）
+## All Listed Skills（44）
 
 | Product ID | Get This Skill |
 |---|---|
@@ -89,6 +89,9 @@ When you want to quit and don't dare; when you want to defend someone and stand 
 | 秦琼 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970 |
 | 程咬金 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970 |
 | 岳飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970 |
+| 探春 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970 |
+| 史湘云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970 |
+| 白骨精 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970 |
 
 ## 🛡️ Copyright
 
