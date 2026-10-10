@@ -14,7 +14,7 @@
 
 ---
 
-> 🕒 最近更新 Updated: 2026-10-10 20:06 ｜ 仅提供付费版本 Paid versions only
+> 🕒 最近更新 Updated: 2026-10-10 20:07 ｜ 仅提供付费版本 Paid versions only
 
 ## ✨ 这是什么 / What is this
 
@@ -87,7 +87,7 @@
 
 | 商品 | 文章 | 直购链接 |
 |---|---|---|
-| 观音 | [📄 文章](articles/观音-·-大慈大悲.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970) |
+| 观音 | [📄 文章](articles/观音.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970) |
 | 猪八戒 | [📄 文章](articles/zhu-bajie.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970) |
 | 唐僧 | [📄 文章](articles/tang-seng.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970) |
 | 白龙马 | [📄 文章](articles/白龙马.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970) |
