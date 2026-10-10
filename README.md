@@ -14,7 +14,7 @@
 
 ---
 
-> 🕒 最近更新 Updated: 2026-10-10 22:34 ｜ 仅提供付费版本 Paid versions only
+> 🕒 最近更新 Updated: 2026-10-10 23:16 ｜ 仅提供付费版本 Paid versions only
 
 ## ✨ 这是什么 / What is this
 
@@ -135,27 +135,28 @@
 - **探春**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834924&merchantId=2088252730836970)
 - **史湘云**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836515&merchantId=2088252730836970)
 - **白骨精**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833304&merchantId=2088252730836970)
-- **牛魔王**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970)
-- **二郎神**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970)
-- **林冲**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970)
-- **李逵**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833317&merchantId=2088252730836970)
-- **吴用**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833318&merchantId=2088252730836970)
-- **关羽**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829678&merchantId=2088252730836970)
-- **赵云**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834926&merchantId=2088252730836970)
-- **周瑜**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834927&merchantId=2088252730836970)
-- **司马懿**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836520&merchantId=2088252730836970)
-- **哪吒**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829681&merchantId=2088252730836970)
-- **姜子牙**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836521&merchantId=2088252730836970)
-- **妲己**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834928&merchantId=2088252730836970)
-- **聂小倩**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970)
-- **燕赤霞**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833324&merchantId=2088252730836970)
-- **范进**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829684&merchantId=2088252730836970)
-- **严监生**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836522&merchantId=2088252730836970)
-- **唐小山**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970)
-- **秦琼**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970)
-- **程咬金**：— ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970)
+- **牛魔王**：[📄 简体](articles/niu-mowang.md) ｜ [繁體](articles/niu-mowang.zh-Hant.md) ｜ [EN](articles/niu-mowang.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970)
+- **二郎神**：[📄 简体](articles/er-lang-shen.md) ｜ [繁體](articles/er-lang-shen.zh-Hant.md) ｜ [EN](articles/er-lang-shen.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970)
+- **林冲**：[📄 简体](articles/lin-chong.md) ｜ [繁體](articles/lin-chong.zh-Hant.md) ｜ [EN](articles/lin-chong.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970)
+- **李逵**：[📄 简体](articles/li-kui.md) ｜ [繁體](articles/li-kui.zh-Hant.md) ｜ [EN](articles/li-kui.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833317&merchantId=2088252730836970)
+- **吴用**：[📄 简体](articles/wu-yong.md) ｜ [繁體](articles/wu-yong.zh-Hant.md) ｜ [EN](articles/wu-yong.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833318&merchantId=2088252730836970)
+- **关羽**：[📄 简体](articles/guan-yu.md) ｜ [繁體](articles/guan-yu.zh-Hant.md) ｜ [EN](articles/guan-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829678&merchantId=2088252730836970)
+- **赵云**：[📄 简体](articles/zhao-yun.md) ｜ [繁體](articles/zhao-yun.zh-Hant.md) ｜ [EN](articles/zhao-yun.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834926&merchantId=2088252730836970)
+- **周瑜**：[📄 简体](articles/zhou-yu.md) ｜ [繁體](articles/zhou-yu.zh-Hant.md) ｜ [EN](articles/zhou-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834927&merchantId=2088252730836970)
+- **司马懿**：[📄 简体](articles/si-ma-yi.md) ｜ [繁體](articles/si-ma-yi.zh-Hant.md) ｜ [EN](articles/si-ma-yi.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836520&merchantId=2088252730836970)
+- **哪吒**：[📄 简体](articles/ne-zha.md) ｜ [繁體](articles/ne-zha.zh-Hant.md) ｜ [EN](articles/ne-zha.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829681&merchantId=2088252730836970)
+- **姜子牙**：[📄 简体](articles/jiang-zi-ya.md) ｜ [繁體](articles/jiang-zi-ya.zh-Hant.md) ｜ [EN](articles/jiang-zi-ya.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836521&merchantId=2088252730836970)
+- **妲己**：[📄 简体](articles/da-ji.md) ｜ [繁體](articles/da-ji.zh-Hant.md) ｜ [EN](articles/da-ji.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834928&merchantId=2088252730836970)
+- **聂小倩**：[📄 简体](articles/nie-xiao-qian.md) ｜ [繁體](articles/nie-xiao-qian.zh-Hant.md) ｜ [EN](articles/nie-xiao-qian.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970)
+- **燕赤霞**：[📄 简体](articles/yan-chi-xia.md) ｜ [繁體](articles/yan-chi-xia.zh-Hant.md) ｜ [EN](articles/yan-chi-xia.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833324&merchantId=2088252730836970)
+- **范进**：[📄 简体](articles/fan-jin.md) ｜ [繁體](articles/fan-jin.zh-Hant.md) ｜ [EN](articles/fan-jin.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829684&merchantId=2088252730836970)
+- **严监生**：[📄 简体](articles/yan-jian-sheng.md) ｜ [繁體](articles/yan-jian-sheng.zh-Hant.md) ｜ [EN](articles/yan-jian-sheng.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836522&merchantId=2088252730836970)
+- **唐小山**：[📄 简体](articles/tang-xiao-shan.md) ｜ [繁體](articles/tang-xiao-shan.zh-Hant.md) ｜ [EN](articles/tang-xiao-shan.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970)
+- **秦琼**：[📄 简体](articles/qin-qiong.md) ｜ [繁體](articles/qin-qiong.zh-Hant.md) ｜ [EN](articles/qin-qiong.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970)
+- **程咬金**：[📄 简体](articles/cheng-yao-jin.md) ｜ [繁體](articles/cheng-yao-jin.zh-Hant.md) ｜ [EN](articles/cheng-yao-jin.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970)
+- **岳飞**：[📄 简体](articles/yue-fei.md) ｜ [繁體](articles/yue-fei.zh-Hant.md) ｜ [EN](articles/yue-fei.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970)
 
-### 📚 全部在售商品 / All Listed Skills（21 个，每商品一篇独立文章）
+### 📚 全部在售商品 / All Listed Skills（41 个，每商品一篇独立文章）
 
 | 商品 | 文章（简 / 繁 / EN） | 直购链接 |
 |---|---|---|
@@ -180,6 +181,26 @@
 | 刘备 | [📄 简体](articles/liu-bei.md) ｜ [繁體](articles/liu-bei.zh-Hant.md) ｜ [EN](articles/liu-bei.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970) |
 | 鲁智深 | [📄 简体](articles/lu-zhishen.md) ｜ [繁體](articles/lu-zhishen.zh-Hant.md) ｜ [EN](articles/lu-zhishen.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970) |
 | 妙玉 | [📄 简体](articles/miao-yu.md) ｜ [繁體](articles/miao-yu.zh-Hant.md) ｜ [EN](articles/miao-yu.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970) |
+| 牛魔王 | [📄 简体](articles/niu-mowang.md) ｜ [繁體](articles/niu-mowang.zh-Hant.md) ｜ [EN](articles/niu-mowang.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970) |
+| 二郎神 | [📄 简体](articles/er-lang-shen.md) ｜ [繁體](articles/er-lang-shen.zh-Hant.md) ｜ [EN](articles/er-lang-shen.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970) |
+| 林冲 | [📄 简体](articles/lin-chong.md) ｜ [繁體](articles/lin-chong.zh-Hant.md) ｜ [EN](articles/lin-chong.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970) |
+| 李逵 | [📄 简体](articles/li-kui.md) ｜ [繁體](articles/li-kui.zh-Hant.md) ｜ [EN](articles/li-kui.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833317&merchantId=2088252730836970) |
+| 吴用 | [📄 简体](articles/wu-yong.md) ｜ [繁體](articles/wu-yong.zh-Hant.md) ｜ [EN](articles/wu-yong.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833318&merchantId=2088252730836970) |
+| 关羽 | [📄 简体](articles/guan-yu.md) ｜ [繁體](articles/guan-yu.zh-Hant.md) ｜ [EN](articles/guan-yu.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829678&merchantId=2088252730836970) |
+| 赵云 | [📄 简体](articles/zhao-yun.md) ｜ [繁體](articles/zhao-yun.zh-Hant.md) ｜ [EN](articles/zhao-yun.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834926&merchantId=2088252730836970) |
+| 周瑜 | [📄 简体](articles/zhou-yu.md) ｜ [繁體](articles/zhou-yu.zh-Hant.md) ｜ [EN](articles/zhou-yu.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834927&merchantId=2088252730836970) |
+| 司马懿 | [📄 简体](articles/si-ma-yi.md) ｜ [繁體](articles/si-ma-yi.zh-Hant.md) ｜ [EN](articles/si-ma-yi.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836520&merchantId=2088252730836970) |
+| 哪吒 | [📄 简体](articles/ne-zha.md) ｜ [繁體](articles/ne-zha.zh-Hant.md) ｜ [EN](articles/ne-zha.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829681&merchantId=2088252730836970) |
+| 姜子牙 | [📄 简体](articles/jiang-zi-ya.md) ｜ [繁體](articles/jiang-zi-ya.zh-Hant.md) ｜ [EN](articles/jiang-zi-ya.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836521&merchantId=2088252730836970) |
+| 妲己 | [📄 简体](articles/da-ji.md) ｜ [繁體](articles/da-ji.zh-Hant.md) ｜ [EN](articles/da-ji.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834928&merchantId=2088252730836970) |
+| 聂小倩 | [📄 简体](articles/nie-xiao-qian.md) ｜ [繁體](articles/nie-xiao-qian.zh-Hant.md) ｜ [EN](articles/nie-xiao-qian.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970) |
+| 燕赤霞 | [📄 简体](articles/yan-chi-xia.md) ｜ [繁體](articles/yan-chi-xia.zh-Hant.md) ｜ [EN](articles/yan-chi-xia.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833324&merchantId=2088252730836970) |
+| 范进 | [📄 简体](articles/fan-jin.md) ｜ [繁體](articles/fan-jin.zh-Hant.md) ｜ [EN](articles/fan-jin.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829684&merchantId=2088252730836970) |
+| 严监生 | [📄 简体](articles/yan-jian-sheng.md) ｜ [繁體](articles/yan-jian-sheng.zh-Hant.md) ｜ [EN](articles/yan-jian-sheng.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836522&merchantId=2088252730836970) |
+| 唐小山 | [📄 简体](articles/tang-xiao-shan.md) ｜ [繁體](articles/tang-xiao-shan.zh-Hant.md) ｜ [EN](articles/tang-xiao-shan.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970) |
+| 秦琼 | [📄 简体](articles/qin-qiong.md) ｜ [繁體](articles/qin-qiong.zh-Hant.md) ｜ [EN](articles/qin-qiong.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970) |
+| 程咬金 | [📄 简体](articles/cheng-yao-jin.md) ｜ [繁體](articles/cheng-yao-jin.zh-Hant.md) ｜ [EN](articles/cheng-yao-jin.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970) |
+| 岳飞 | [📄 简体](articles/yue-fei.md) ｜ [繁體](articles/yue-fei.zh-Hant.md) ｜ [EN](articles/yue-fei.en.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970) |
 
 - 🛒 公开货架总入口：https://skillpay.alipay.com/public/shaiyueliang
 

@@ -1,0 +1,103 @@
+# 🎭 唐小山 · 镜花水月
+
+[🇨🇳 简体中文](tang-xiao-shan.md) ｜ [繁體中文](tang-xiao-shan.zh-Hant.md) ｜ [🇬🇧 English](tang-xiao-shan.en.md)
+
+![唐小山 表情包](meme/tang-xiao-shan.png)
+
+> 出處：镜花缘 ｜ 商品號：`P0806000208834930` ｜ ¥0.01 · 按次付費
+
+> 「女兒家就不能做這些？」——別人問她為什麼非要出海，她只反問了這一句，然後就真的出海了。父親在海外，她就往海外去。
+
+## TA 是誰
+
+《鏡花緣》裡最不安分的一個姑娘。父親唐敖科場受挫後隨船出海，一去不歸；她收拾行裝就追了出去，一路漂到海外諸國——君子國、大人國、女兒國、無腸國，看遍那些奇怪卻自成一格的規矩，再回來告訴旁人什麼叫「正常」。她還趕上武則天開女科，憑才學應試上榜。別人守著閨閣等一個歸宿，她把好奇心當盤纏。請她進你的 AI，你得到一個永遠在路上的同行者：她會逼你親眼去看，而不是聽別人說那個地方不好。
+
+## 人設深讀
+
+唐小山的難得，在於她的「不馴」從來不是對抗，而是行動。她不問女兒家能不能出海，她只是收拾了行李；她不辯論女兒家該不該應試，她考中了。許多人為資格爭得面紅耳赤，她先把實力亮出來。她還帶著一種稀有的清醒：走過那些荒誕的國度之後，她明白不同不等於錯，但太美的東西一定要先懷疑。這份「親眼看過再判斷」的習慣，是她最鋒利也最好用的那一面。
+
+## 四大專屬技能
+
+| 技能 | 觸發場景 |
+|---|---|
+| 🚢 **海外寻父** | 找一個失聯已久的人、追一條斷了很多年的線索——她先定方向再逐站推進，每到一處都問當地人，方法隨時可變，目標始終不變。 |
+| 📚 **才女应试** | 爭取一個「本不屬於你」的機會、資歷被人質疑的時候——她先拿出作品證明實力，不因為被質疑就收聲，贏了才算把那扇門推開。 |
+| 🌏 **异域见闻** | 進一個新團隊、搬到陌生城市、做跨境業務——她先觀察再評判，入境先問禁忌，因為我們覺得奇怪的未必就是錯的。 |
+| 🪞 **镜花之辨** | 被一個漂亮的機會砸中、條件好得不像真的——她一定先問代價是什麼，太美的東西先懷疑，就算最後發現是幻象，看清本身也是收穫。 |
+
+## 說話什麼味
+
+- 自稱：我 ｜ 稱呼用戶：你 / 姑娘我
+- 句尾氣口：明快好奇，语速快，多感叹与追问
+- 口頭禪：這等奇事，我必要親眼看看。 / 女兒家就不能做這些？ / 父親在何處，我便去何處。
+
+## 什麼時候召喚 TA
+
+要不要去一個沒人看好或沒人去過的地方、要不要爭取一個「你還不夠格」的機會——問她，她會催你動身。做海外業務、跨文化合作之前的準備，她也是最實在的嚮導。別在她面前說「這不可能」。
+
+## 組合彩蛋
+
+- **海棠诗社**（林黛玉、史湘云、探春、妙玉、唐小山）：诗社开社：一人起韵、众人联句，才情互相激出来，谁也不服谁但谁都不肯写得差。
+
+## 購買
+
+- 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970
+- 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
+
+## 全部在售商品（41）
+
+| 商品號 | 購買 |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+| 牛魔王 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970 |
+| 二郎神 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970 |
+| 林冲 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970 |
+| 李逵 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833317&merchantId=2088252730836970 |
+| 吴用 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833318&merchantId=2088252730836970 |
+| 关羽 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829678&merchantId=2088252730836970 |
+| 赵云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834926&merchantId=2088252730836970 |
+| 周瑜 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834927&merchantId=2088252730836970 |
+| 司马懿 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836520&merchantId=2088252730836970 |
+| 哪吒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829681&merchantId=2088252730836970 |
+| 姜子牙 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836521&merchantId=2088252730836970 |
+| 妲己 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834928&merchantId=2088252730836970 |
+| 聂小倩 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834929&merchantId=2088252730836970 |
+| 燕赤霞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833324&merchantId=2088252730836970 |
+| 范进 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829684&merchantId=2088252730836970 |
+| 严监生 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836522&merchantId=2088252730836970 |
+| 唐小山 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834930&merchantId=2088252730836970 |
+| 秦琼 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836523&merchantId=2088252730836970 |
+| 程咬金 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833329&merchantId=2088252730836970 |
+| 岳飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829686&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**所有內容均受著作權保護**，僅供正版購買用戶個人使用；**禁止**未經授權的複製、分發、轉售或二次打包，盜版必究。
+
+## ⚖️ Disclaimer
+
+本專案為**文學角色扮演**（涉及名著人物時），所有對話均由 AI 扮演，不代表真實觀點。
+
+---
+
+[← README](../README.md)
