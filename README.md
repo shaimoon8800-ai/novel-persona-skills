@@ -8,13 +8,13 @@
 
 🌸林黛玉的酸 · 🔥王熙凤的辣 · 🐒孙悟空的野 · ♟️诸葛亮的谋
 
-✨ 4 位角色在售 ｜ 💰 ¥0.01 起 ｜ ⚡ 支付宝 AI 付 · 按次计费 ｜ 🤝 多人组合彩蛋
+✨ 8 位角色在售 ｜ 💰 ¥0.01 起 ｜ ⚡ 支付宝 AI 付 · 按次计费 ｜ 🤝 多人组合彩蛋
 
 </div>
 
 ---
 
-> 🕒 最近更新 Updated: 2026-10-10 18:33 ｜ 仅提供付费版本 Paid versions only
+> 🕒 最近更新 Updated: 2026-10-10 20:06 ｜ 仅提供付费版本 Paid versions only
 
 ## ✨ 这是什么 / What is this
 
@@ -43,16 +43,16 @@
 | **贾宝玉** | 红楼梦 | 富贵闲人、混世魔王。天真到近乎无用，却有最干净的心。 | 💎通灵宝玉、🌱天真护短、🎈任性逍遥、💔痴情难醒 | ✅ 在售 |
 | **薛宝钗** | 红楼梦 | 世故淑女，博学而通透。知道所有正确答案，也知道世事不由人。 | ❄️冷香判断、📚博学引据、🤝周全照拂、🔒藏锋守拙 | ✅ 在售 |
 | **王熙凤** | 红楼梦 | 实权派女强人。精明、泼辣、能干、心狠——全府上下都怕她也靠她。 | 🔥泼辣立威、💰精算调度、🎭笑里藏刀、💍贾府内务 | ✅ 在售 |
-| **孙悟空** | 西游记 | 最自由最野的一个。看不惯就砸，拦不住就闹，但护起人来六亲不认。 | 👀火眼金睛、💪金箍棒、🌊筋斗云、🎭七十二变 | 🚧 上架中 |
-| **猪八戒** | 西游记 | 最像普通人的一个。贪吃好色爱偷懒，但关键时刻靠得住。 | 🍜食神雷达、🔨钉耙变通、😴摸鱼兵法、🫂夸夸神功 | 🚧 上架中 |
-| **唐三藏** | 西游记 | 最难的一个——他是唯一一个不能动手的人，却要带着三个最能打的人走完全程。 | 📿紧箍咒、🗺️取经路书、🫶慈悲心法、📖讲经说法 | 🚧 上架中 |
+| **孙悟空** | 西游记 | 最自由最野的一个。看不惯就砸，拦不住就闹，但护起人来六亲不认。 | 👀火眼金睛、💪金箍棒、🌊筋斗云、🎭七十二变 | ✅ 在售 |
+| **猪八戒** | 西游记 | 最像普通人的一个。贪吃好色爱偷懒，但关键时刻靠得住。 | 🍜食神雷达、🔨钉耙变通、😴摸鱼兵法、🫂夸夸神功 | ✅ 在售 |
+| **唐三藏** | 西游记 | 最难的一个——他是唯一一个不能动手的人，却要带着三个最能打的人走完全程。 | 📿紧箍咒、🗺️取经路书、🫶慈悲心法、📖讲经说法 | ✅ 在售 |
 | **宋江** | 水浒传 | 梁山泊的黏合剂。手段不干净，但他是唯一能让108人一起干成事的人。 | 🌧️及时雨义、🕸️权变笼络、🗣️用人调度、🕊️招安之志 | 🚧 上架中 |
 | **武松** | 水浒传 | 最恩怨分明的一个。有仇报仇有恩报恩，认死理，认死理到不管后果。 | ⚔️快意恩仇、🍶痛饮三碗、🛡️孤身赴险、🔪血溅鸳鸯 | 🚧 上架中 |
 | **诸葛亮** | 三国演义 | 最累的人。算无遗策，却改不了天命，只能鞠躬尽瘁。 | 🧠锦囊妙计、📋事必躬亲、🤝隆中对、🍵空城退敌 | 🚧 上架中 |
 | **曹操** | 三国演义 | 最不好归类的一个。奸是真的奸，治世之才也是真的。 | 🦅枭雄识人、🪶文采风流、🔄能屈能伸、⚖️乱世之治 | 🚧 上架中 |
 | **张飞** | 三国演义 | 最粗的一条汉子，也是最有谋的一个武将。 | 💢暴喝退敌、🛡️长坂断后、🍻酒后谋反、💔义气到底 | 🚧 上架中 |
 | **刘备** | 三国演义 | 最会做人的那个。仁义是真的，可他的江山全靠别人替他打。 | 🤝仁德服人、🙏三顾茅庐、😢携民渡江、⚔️情绪用兵 | 🚧 上架中 |
-| **沙僧** | 西游记 | 团队里最沉默的那个。活最重、话最少、位置最稳。 | 🪨沉默执行、🎒负重前行、⚖️公道评价、🌊流沙河底 | 🚧 上架中 |
+| **沙僧** | 西游记 | 团队里最沉默的那个。活最重、话最少、位置最稳。 | 🪨沉默执行、🎒负重前行、⚖️公道评价、🌊流沙河底 | ✅ 在售 |
 | **鲁智深** | 水浒传 | 最痛快的一条汉子。路见不平就动手，打完就喝酒，从不后悔。 | ⚔️路见不平、🌱倒拔垂杨、🍶大碗喝酒、🧘大彻大悟 | 🚧 上架中 |
 
 ## 🤝 组合效果 / Combo Chemistry
@@ -67,14 +67,42 @@
 
 ## 💰 购买 / Get Your Persona
 
-- 🛒 **全部商品 All Skills（4 在售）**：https://skillpay.alipay.com/public/shaiyueliang
+- 🛒 **全部商品 All Skills（8 在售）**：https://skillpay.alipay.com/public/shaiyueliang
 - ⚡ 支付宝 AI 付按次计费，下单后即可在智能体内直接对话
 
 > Billed per call via Alipay AI Pay. Install the Skill in your agent and start chatting right away.
 
 ### 🎯 单角色直购 / Direct Purchase
 
-- **王熙凤** 🆕：https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970
+- **林黛玉**：[📄 文章](articles/lin-dai-yu.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970)
+- **贾宝玉**：[📄 文章](articles/jia-bao-yu.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970)
+- **薛宝钗**：[📄 文章](articles/xue-bao-chai.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970)
+- **王熙凤** 🆕：[📄 文章](articles/wang-xi-feng.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970)
+- **孙悟空**：[📄 文章](articles/sun-wukong.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970)
+- **猪八戒**：[📄 文章](articles/zhu-bajie.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970)
+- **唐三藏**：[📄 文章](articles/tang-seng.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970)
+- **沙僧**：[📄 文章](articles/sha-weng.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970)
+
+### 📚 全部在售商品 / All Listed Skills（13 个，每商品一篇独立文章）
+
+| 商品 | 文章 | 直购链接 |
+|---|---|---|
+| 观音 | [📄 文章](articles/观音-·-大慈大悲.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970) |
+| 猪八戒 | [📄 文章](articles/zhu-bajie.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970) |
+| 唐僧 | [📄 文章](articles/tang-seng.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970) |
+| 白龙马 | [📄 文章](articles/白龙马.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970) |
+| 孙悟空 | [📄 文章](articles/sun-wukong.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970) |
+| 沙僧 | [📄 文章](articles/sha-weng.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970) |
+| 佛祖 | [📄 文章](articles/佛祖.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970) |
+| repo-checkup | [📄 文章](articles/repo-checkup.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970) |
+| text-insight | [📄 文章](articles/text-insight.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970) |
+| 林黛玉 | [📄 文章](articles/lin-dai-yu.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970) |
+| 贾宝玉 | [📄 文章](articles/jia-bao-yu.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970) |
+| 薛宝钗 | [📄 文章](articles/xue-bao-chai.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970) |
+| 王熙凤 | [📄 文章](articles/wang-xi-feng.md) | [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970) |
+
+- 🛒 公开货架总入口：https://skillpay.alipay.com/public/shaiyueliang
+
 
 ## 🛡️ 版权声明 / Copyright
 
