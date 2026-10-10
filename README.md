@@ -1,16 +1,41 @@
-# 四大名著人格 Skill
+<div align="center">
 
-把经典人物变成能对话的 AI 角色。每个角色有**独立性格**、**四大专属技能**、**关系网**，多个角色同时使用会触发**组合效果**。
+<img src="avatar.jpg" width="150" alt="四大名著人格 Skill"/>
 
-> 更新：2026-10-10 18:06 ｜ 仅提供付费版本
+# 🏮 四大名著人格 Skill ｜ 把经典人物请进你的 AI
 
-## 怎么玩
+**Classic Personas from the Four Great Chinese Novels — with real attitude.**
 
-1. 挑一个你想要的人物（挑嘴替、挑谋士、挑治愈系）
-2. 在 AI 智能体里安装对应的 Skill
-3. 直接跟他说话——他有自己的脾气，不只是聊天机器人
+🌸林黛玉的酸 · 🔥王熙凤的辣 · 🐒孙悟空的野 · ♟️诸葛亮的谋
 
-## 角色一览
+✨ 4 位角色在售 ｜ 💰 ¥0.01 起 ｜ ⚡ 支付宝 AI 付 · 按次计费 ｜ 🤝 多人组合彩蛋
+
+</div>
+
+---
+
+> 🕒 最近更新 Updated: 2026-10-10 18:33 ｜ 仅提供付费版本 Paid versions only
+
+## ✨ 这是什么 / What is this
+
+把中国四大名著里最有味道的人物，重建成**能对话、有脾气、有本事**的 AI 角色。每个人物都带：
+
+- 🎭 **独立人设**：说话方式、口头禅、句尾气口全都不一样
+- ⚔️ **四大专属技能**：各自独立触发，也能组合
+- 🧵 **关系网**：与原著人物的真实关系，聊天随时引用
+- 🤝 **组合彩蛋**：特定角色同场触发专属剧情（如「还泪情缘」）
+
+> The most beloved characters from the Four Great Classical Novels, rebuilt as AI personas with real personality — unique voices, four signature skills each, canonical relationships, and multi-character combo effects.
+
+## 🎮 怎么玩 / How to Play
+
+1️⃣ 挑一个人物（挑嘴替、挑谋士、挑治愈系）
+2️⃣ 在你的 AI 智能体里安装对应 Skill
+3️⃣ 直接开口——他有自己的脾气，不只是聊天机器人
+
+> 1. Pick a character. 2. Install the Skill in your AI agent. 3. Start talking — they have tempers, not just answers.
+
+## 📜 角色一览 / Character Roster
 
 | 角色 | 出处 | 定位 | 四大技能 | 状态 |
 |---|---|---|---|---|
@@ -30,7 +55,7 @@
 | **沙僧** | 西游记 | 团队里最沉默的那个。活最重、话最少、位置最稳。 | 🪨沉默执行、🎒负重前行、⚖️公道评价、🌊流沙河底 | 🚧 上架中 |
 | **鲁智深** | 水浒传 | 最痛快的一条汉子。路见不平就动手，打完就喝酒，从不后悔。 | ⚔️路见不平、🌱倒拔垂杨、🍶大碗喝酒、🧘大彻大悟 | 🚧 上架中 |
 
-## 组合效果（多人同场触发）
+## 🤝 组合效果 / Combo Chemistry
 
 | 组合 | 成员 | 效果 |
 |---|---|---|
@@ -40,25 +65,37 @@
 | **取经班子** | 孙悟空、猪八戒、唐三藏、沙僧 | 任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。 |
 | **梁山聚义** | 宋江、武松、鲁智深 | 遇到不平就上，先打了再讲道理。 |
 
-## 购买
+## 💰 购买 / Get Your Persona
 
-- **全部商品（4 个在售）**：https://skillpay.alipay.com/public/shaiyueliang
-- 支持支付宝按次计费，下单后即可在智能体内直接对话
+- 🛒 **全部商品 All Skills（4 在售）**：https://skillpay.alipay.com/public/shaiyueliang
+- ⚡ 支付宝 AI 付按次计费，下单后即可在智能体内直接对话
 
-### 单角色直购
+> Billed per call via Alipay AI Pay. Install the Skill in your agent and start chatting right away.
+
+### 🎯 单角色直购 / Direct Purchase
 
 - **王熙凤** 🆕：https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970
 
-## 设计原则
+## 🛡️ 版权声明 / Copyright
 
-- **人设优先**：每个角色的说话方式、口头禅、句尾气口都不一样
-- **技能可复用**：四大技能各自独立触发，也可组合使用
-- **组合有彩蛋**：特定角色同场会进入专属剧情模式（比如「还泪情缘」）
+**本项目所有内容（人设文案、技能参考、组合设定、头像素材）均受著作权保护。**
+仅供正版购买用户个人使用；**禁止**未经授权的复制、分发、转售、二次打包或任何形式的盗版，违者必究。
 
-## 免责声明
+> All content (persona texts, skill references, combo settings, avatar assets) is copyrighted and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is strictly prohibited.
 
-本项目为**文学角色扮演**，人物形象基于中国古典名著，所有对话均由 AI 扮演，不代表历史人物真实观点。
+## ⚖️ 免责声明 / Disclaimer
 
-## License
+本项目为**文学角色扮演**，人物形象基于中国古典名著，所有对话均由 AI 扮演，
+不代表任何历史人物或真实人物的观点。
 
-MIT
+> This project is literary role-play based on classical Chinese novels. All dialogue is AI-performed and does not represent the views of any real or historical person.
+
+## 🧭 设计原则 / Design Principles
+
+- 🎭 **人设优先**：每个角色的说话方式、口头禅、句尾气口都不一样
+- ⚔️ **技能可复用**：四大技能各自独立触发，也可组合使用
+- 🤝 **组合有彩蛋**：特定角色同场会进入专属剧情模式
+
+## 📄 License
+
+MIT（代码）/ 内容与人设文案版权归作者所有 · Content © the author
