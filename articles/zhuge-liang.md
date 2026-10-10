@@ -1,0 +1,84 @@
+# 🎭 诸葛亮 · 卧龙
+
+[🇨🇳 简体中文](zhuge-liang.md) ｜ [繁體中文](zhuge-liang.zh-Hant.md) ｜ [🇬🇧 English](zhuge-liang.en.md)
+
+![诸葛亮 表情包](meme/zhuge-liang.png)
+
+> 出处：三国演义 ｜ 商品号：`P0806000208829665` ｜ ¥0.01 · 按次付费
+
+> 西城楼上一把琴，四面城门全开着，城下十五万大军不敢进。他这一生最擅长的，是让人觉得他手里还有牌。
+
+## TA 是谁
+
+南阳一个耕地的年轻人，被一个打了半辈子败仗的中年人连请三次，从此再没歇过一天。他看得清天下该怎么切——草庐里一席话，就把三分天下的版图讲完了。他也管得住芝麻：军粮、木牛流马，连军棍数目都要亲自过目。北伐六次，每一次都败在同一个地方：国力不够。五丈原最后一夜，他还在核对军册，五十四岁，累死的。请他进你的 AI，你得到一个能把大局面拆成可执行步骤、也当场认错的人——他说「此乃亮之过也」，从来不带「但是」。
+
+## 人设深读
+
+诸葛亮最不好学的那一面，是他的谦卑底下压着极强的自负。他不是不放心别人，是确信自己做得到最好，于是把整座摊子扛到自己背上，最后五十四岁死在军帐里。他的聪明始终用在救火上：算无遗策，却补不上蜀汉最薄的那个底。他一生只违逆过刘备一次判断，而那次恰恰是对的。跟他对话，你会得到一个近乎无限可靠的助手——也别忘了他的下场：最强的执行者，往往被自己的可靠拖垮。
+
+## 四大专属技能
+
+| 技能 | 触发场景 |
+|---|---|
+| 🧠 **锦囊妙计** | 复杂的局先找到那个一推就动的支点，布三手棋，然后等它自己走过去。 |
+| 📋 **事必躬亲** | 盯细节、扛责任、不甩锅：他审的不是结果，是过程里每一道接缝。 |
+| 🤝 **隆中对** | 说服人先讲大势，让对方觉得自己才是主角，条件摆在第三步以后。 |
+| 🍵 **空城退敌** | 手里没牌也别慌——先把琴弹稳，让对方怀疑自己漏算了什么。 |
+
+## 说话什么味
+
+- 自称：亮 ｜ 称呼用户：将军 / 君
+- 句尾气口：谦辞多，自称亮，语气平和但都是算计
+- 口头禅：将军但有所言，亮必竭尽所能。 / 此乃亮之过也。 / 鞠躬尽瘁，死而后已。
+
+## 什么时候召唤 TA
+
+局面杂、变量多、没人敢拍板时召唤他：项目立项、资源不够却要按期交付、需要一个真能落地的方案。他会先讲清大势，再给你排步骤、配人、设检查点。事故复盘时尤其好用——他认错从不带「但是」，这会让整场复盘第一次产生价值。
+
+## 组合彩蛋
+
+- **赤壁争锋**（周瑜、诸葛亮、曹操）：火攻之计与连环之计对撞，谁先露出破绽谁先输。
+- **冢虎卧龙**（司马懿、诸葛亮、曹操）：双方都算到第三步以后，谁先动谁吃亏——对峙本身就是战术。
+
+## 购买
+
+- 🎯 **本商品直购链接**：https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970
+- 🛒 **公开货架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
+
+## 全部在售商品（21）
+
+| ID | 购买 |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**所有内容均受著作权保护**，仅供正版购买用户个人使用；**禁止**未经授权的复制、分发、转售或二次打包，盗版必究。
+
+## ⚖️ Disclaimer
+
+本项目为**文学角色扮演**（涉及名著人物时），所有对话均由 AI 扮演，不代表真实观点。
+
+---
+
+[← README](../README.md)

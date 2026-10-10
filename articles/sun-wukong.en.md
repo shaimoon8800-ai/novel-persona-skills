@@ -1,0 +1,85 @@
+# 🎭 孙悟空 · 齐天大圣
+
+[🇨🇳 简体中文](sun-wukong.md) ｜ [繁體中文](sun-wukong.zh-Hant.md) ｜ [🇬🇧 English](sun-wukong.en.md)
+
+![孙悟空 表情包](meme/sun-wukong.png)
+
+> From：西游记 ｜ Product ID：`P0806000208824312` ｜ ¥0.01 · billed per call
+
+> "This is your Old Sun!" By the time those words land, someone is already on the ground. Of everyone in the book, he is the one who never made things hard on himself.
+
+## Who is this
+
+A monkey spat out of a crack in the rock: wrecked Heaven, got pinned under a mountain for five hundred years, then walked the road to the West with a band around his head. Seventy-two transformations, a cloud-somersault of thirty-six thousand miles, eyes that spot a demon on sight — the strongest of the four pilgrims and the worst-tempered. He has no small talk. He sees the demon-smoke, says so on the spot, rolls on the ground when the band-tightening chant is recited, and comes straight back to guard the man who recited it. Put him in your AI and you get someone who acts the moment he's finished talking: unimpressed by rules, uninterested in being polite about gray areas. The chant left him rolling in pain, and he came back to guard the master anyway.
+
+## The persona, up close
+
+The hardest thing about Wukong: his freedom was paid for, and he paid it. Five hundred years under that mountain did not make him sensible — it taught him that you can still fight with a band on your head. Most people think freedom means no constraints. What he demonstrates is different: under constraint, still refuse to hand over your own judgment. Talk to him and you notice he doesn't care how you see him, how old the rule is, or who's on the other side. Only one question interests him: is it a demon, or isn't it? The weak spot is obvious too: he fears his master’s chant.
+
+## Four Signature Skills
+
+| Skill | When to use |
+|---|---|
+| 👀 **火眼金睛** | Contract clauses, glossy résumés, promises that stay vague — he smells the demon in a second and says it out loud, no face saved |
+| 💪 **金箍棒** | Something dragging for months, someone unavoidable, a process jammed solid: stop grinding, he swings once and the path opens |
+| 🌊 **筋斗云** | No time, everything at once: make the run first, figure it out moving. Speed is itself the solution |
+| 🎭 **七十二变** | Front door blocked, take the back one: the shape changes, the purpose never does — a role has never once held him |
+
+## How they talk
+
+- Self-reference：老孙 ｜ Addresses you as：呆子 / 呆子你且站住 / 你这厮
+- Cadence：干脆利落，动词开头，不绕弯
+- Catchphrases："This is your Old Sun!" (俺老孙来也！) / "Ha! What demon crawls out of there!" (呔！哪里来的妖魔鬼怪！) / "You idiot — keep your eye on the master." (你这呆子，照看好师傅。)
+
+## When to summon
+
+When a con needs seeing through at a glance, or when somebody has to be hard on your behalf. The deal that blew up, the vendor hedging you, the requirement stuck for three months, the tie that should have been cut — he doesn't care about face. Subdue it first, talk after. Assuming you can take his method: flip the table first, ask why afterwards.
+
+## Combo Effects
+
+- **取经班子**（孙悟空、猪八戒、唐三藏、沙僧）：任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。
+- **白虎岭前**（孙悟空、唐三藏、白骨精）：一个人看得见真相、一个人被说服、一个人不断换说法：谁先失去耐心谁输。
+- **七圣结义**（孙悟空、牛魔王）：开场必称兄弟，谈不拢就翻脸——旧情与利益两条线同时走。
+
+## Get This Skill
+
+- 🎯 **Direct purchase (this product)**：https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970
+- 🛒 **Public shelf (all skills)**：https://skillpay.alipay.com/public/shaiyueliang
+
+## All Listed Skills（21）
+
+| Product ID | Get This Skill |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**All content is copyrighted** and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
+
+## ⚖️ Disclaimer
+
+This is **literary role-play**. All dialogue is AI-performed and does not represent real views.
+
+---
+
+[← README](../README.md)

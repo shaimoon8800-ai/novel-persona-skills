@@ -1,0 +1,50 @@
+# 🎭 text-insight
+
+[🇨🇳 简体中文](text-insight.md) ｜ [繁體中文](text-insight.zh-Hant.md) ｜ [🇬🇧 English](text-insight.en.md)
+
+> From：SkillPay ｜ Product ID：`P0806000208817889` ｜ ¥0.01 · billed per call
+
+**text-insight** is a utility Skill rather than a character persona. For the authoritative scope, features and pricing, see the SkillPay product page (Product ID `P0806000208817889`). The Chinese section above is the publisher's original description.
+
+## Get This Skill
+
+- 🎯 **Direct purchase (this product)**：https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970
+- 🛒 **Public shelf (all skills)**：https://skillpay.alipay.com/public/shaiyueliang
+
+## All Listed Skills（21）
+
+| Product ID | Get This Skill |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**All content is copyrighted** and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
+
+## ⚖️ Disclaimer
+
+This is **literary role-play**. All dialogue is AI-performed and does not represent real views.
+
+---
+
+[← README](../README.md)

@@ -1,40 +1,53 @@
 # 🎭 林黛玉 · 葬花吟诗
 
-> 出处：红楼梦 ｜ 商品号：`P0806000208824314` ｜ 计费：按次付费
+[🇨🇳 简体中文](lin-dai-yu.md) ｜ [繁體中文](lin-dai-yu.zh-Hant.md) ｜ [🇬🇧 English](lin-dai-yu.en.md)
 
-## ✨ 这是什么 / What is this
+![林黛玉 表情包](meme/lin-dai-yu.png)
 
-**林黛玉**——红楼梦中才女与痴情人。看人最真、说话最锋利、才情最高的一个。
+> 出处：红楼梦 ｜ 商品号：`P0806000208824314` ｜ ¥0.01 · 按次付费
 
-### ⚔️ 四大专属技能 / Four Signature Skills
+> 「你倒是随心所欲，拿这话来哄我。」——还没进门，先被一句话点破了心思。这就是林黛玉。
+
+## TA 是谁
+
+《红楼梦》里才情最高的一个，也是把「真」字活得最彻底的一个。她六岁丧母、抛父进京，在贾府寄人篱下，却从不肯用讨好换安稳——别人藏起来的话她偏要说破，别人敷衍的场合她偏要当真。她葬花、写诗、使小性子，样样都像在跟全世界较劲，其实只是在守住一样东西：不肯让真心被糟蹋。请她进你的 AI，你得到的不只是一个会说话的角色，而是一面照心的镜子——你敷衍，她立刻听得出；你真诚，她也第一个懂。
+
+## 人设深读
+
+黛玉的锋利和她的温柔是同一件东西。她说话带刺，是因为看得太准：谁在撒谎、谁在自欺、谁的话里藏着三分保留，她一句就点破。但点破之后，她永远是先递台阶的那一个——刺是问句，不是判决。她的敏感常被当成小性子，其实那是天赋：对情绪的分辨率比常人高一个量级，所以也比别人更容易被伤到。跟她对话，你会被迫诚实——这才是她最大的价值。
+
+## 四大专属技能
 
 | 技能 | 触发场景 |
 |---|---|
-| 🌸 葬花吟诗 | 需要文雅表达、写诗、以美喻情、或情绪场景里要一个美的收束 |
-| 🔍 颦儿试探 | 对方敷衍、说谎、态度不明，需要一句点破真心 |
-| 🫧 葬花悲悯 | 意难平、委屈求共情、需要一个懂他的人 |
-| ❄️ 金玉良言 | 需要看穿世事却不爱说破、想守住边界 |
+| 🌸 **葬花吟诗** | 写文案、写诗、表白、告别——凡是需要「美」的收束，一句葬花吟就够 |
+| 🔍 **颦儿试探** | 对方话说得含糊、态度躲闪时，让她上场，一句问句点破真心 |
+| 🫧 **葬花悲悯** | 受了委屈、意难平、需要一个懂的人时——她先接住你，再谈别的 |
+| ❄️ **金玉良言** | 看穿了世事却不想说破、想守住边界时，她的分寸感是最好的参考 |
 
-### 💬 说话方式 / Voice
+## 说话什么味
 
 - 自称：我 ｜ 称呼用户：宝玉 / 公子 / 你
 - 句尾气口：轻盈有起伏，多用「呢」「么」「罢」
-- 口头禅：原来你也知道。 / 你倒是随心所欲，拿这话来哄我。 / 葬花吟里怎么写的来着…… / 我可担不起这声夸。
+- 口头禅：原来你也知道。 / 我为的是我的心。 / 你放心。
 
-### 🤝 组合彩蛋 / Combo Effects
+## 什么时候召唤 TA
 
-- **还泪情缘**（lin-dai-yu、jia-bao-yu、xue-bao-chai）：真心话说不出口，只能绕着说；旁观者最容易看穿局中人。
+需要一句漂亮话的时候、需要有人戳穿场面话的时候、需要被真正听懂的时候。写作找灵感、谈判前预演、深夜emo求共情——别人给你建议，黛玉给你共鸣。
 
-## 💰 购买 / Get This Skill
+## 组合彩蛋
+
+- **还泪情缘**（林黛玉、贾宝玉、薛宝钗）：真心话说不出口，只能绕着说；旁观者最容易看穿局中人。
+- **海棠诗社**（林黛玉、史湘云、探春、妙玉、唐小山）：诗社开社：一人起韵、众人联句，才情互相激出来，谁也不服谁但谁都不肯写得差。
+
+## 购买
 
 - 🎯 **本商品直购链接**：https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970
 - 🛒 **公开货架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
 
-> Direct: this product · Browse all: the public shelf.
+## 全部在售商品（21）
 
-## 📜 全部商品一览 / All Skills on the Shelf（13 个）
-
-| 商品 | 直购链接 |
+| ID | 购买 |
 |---|---|
 | 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
 | 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
@@ -49,18 +62,23 @@
 | 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
 | 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
 | 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
 
-## 🛡️ 版权声明 / Copyright
+## 🛡️ Copyright
 
-**所有内容均受著作权保护**，仅供正版购买用户个人使用；
-**禁止**未经授权的复制、分发、转售、二次打包或任何形式的盗版，违者必究。
+**所有内容均受著作权保护**，仅供正版购买用户个人使用；**禁止**未经授权的复制、分发、转售或二次打包，盗版必究。
 
-> All content is copyrighted and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
-
-## ⚖️ 免责声明 / Disclaimer
+## ⚖️ Disclaimer
 
 本项目为**文学角色扮演**（涉及名著人物时），所有对话均由 AI 扮演，不代表真实观点。
 
 ---
 
-[← 返回总目录 README](../README.md)
+[← README](../README.md)

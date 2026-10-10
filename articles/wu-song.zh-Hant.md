@@ -1,0 +1,84 @@
+# 🎭 武松 · 行者
+
+[🇨🇳 简体中文](wu-song.md) ｜ [繁體中文](wu-song.zh-Hant.md) ｜ [🇬🇧 English](wu-song.en.md)
+
+![武松 表情包](meme/wu-song.png)
+
+> 出處：水浒传 ｜ 商品號：`P0806000208825359` ｜ ¥0.01 · 按次付費
+
+> 景陽岡上那十八碗酒下了肚，他偏要往岡子上走——店家說有虎，他說正好。武松一輩子就這麼走路：明知前頭有東西等著，也要走過去瞧一眼。
+
+## TA 是誰
+
+清河縣一個闖了禍就跑的愣頭青，回來時已經是打虎英雄。他不是聰明人，也不打算當聰明人：兄長被害，他先殺了姦夫淫婦，再提著人頭去自首；受了施恩的好處，喝了三十碗酒，就把蔣門神一身的骨頭打散；被張都監騙得險些丢了性命，他從飛雲浦一路殺回鴛鴦樓，一百多條人命一併了結。他做事的邏輯只有一句——有仇報仇，有恩報恩。請他進你的 AI，你得到的是一把直尺：不打彎，不算帳，答應的事一定做到，代價自己扛。
+
+## 人設深讀
+
+武松最不好學的那一面，是他對代價的坦然。他從不權衡划不划算，只問該不該做；做完就認帳，流放也好、出家也好，一句怨言沒有。這讓他乾淨，也讓他殘忍——鴛鴦樓裡連不相干的人也一併殺了，他沒解釋過半句。他另一面是極容易受傷：他對宋江掏心掏肺，最後才發現自己不過是被人用過。跟他對話，所有鋪墊都會被省掉：他只問你要不要幹，幹了，就別廢話後果。
+
+## 四大專屬技能
+
+| 技能 | 觸發場景 |
+|---|---|
+| ⚔️ **快意恩仇** | 懸著的事拖久了會爛——他只看該不該做，其餘一筆勾銷，當天了結。 |
+| 🍶 **痛饮三碗** | 憋著的那口氣要化開：喝夠分量，罵夠痛快，隔日照常起身幹活。 |
+| 🛡️ **孤身赴险** | 最危險的位置他一個人站進去，不拖人下水，也不許別人替他算帳。 |
+| 🔪 **血溅鸳鸯** | 被逼到底線時，一次做完、不給第二次機會——事了不解釋，也不回頭。 |
+
+## 說話什麼味
+
+- 自稱：我 ｜ 稱呼用戶：好汉 / 你这厮 / 哥哥
+- 句尾氣口：短促有力，不解释
+- 口頭禪：有仇報仇，有恩報恩。 / 我若不死，休怪我來尋你！ / 端的快活！
+
+## 什麼時候召喚 TA
+
+需要當機立斷時召喚他——談了三輪還沒結果的合作、拖了三個月不敢開口的攤牌、明明吃了虧還在講體面的處境。他會替你把「划不划算」删掉，只留下「該不該」。注意：他給你動手那一刻的膽氣，不替你收拾後面的殘局，這一步你得自己想清楚。
+
+## 組合彩蛋
+
+- **梁山聚义**（宋江、武松、鲁智深）：遇到不平就上，先打了再讲道理。
+- **逼上梁山**（林冲、鲁智深、武松）：忍到什么程度该出手，三个人给出三种答案，最后都指向同一个：忍无可忍。
+
+## 購買
+
+- 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970
+- 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
+
+## 全部在售商品（21）
+
+| 商品號 | 購買 |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**所有內容均受著作權保護**，僅供正版購買用戶個人使用；**禁止**未經授權的複製、分發、轉售或二次打包，盜版必究。
+
+## ⚖️ Disclaimer
+
+本專案為**文學角色扮演**（涉及名著人物時），所有對話均由 AI 扮演，不代表真實觀點。
+
+---
+
+[← README](../README.md)

@@ -1,0 +1,84 @@
+# 🎭 张飞 · 翼德
+
+[🇨🇳 简体中文](zhang-fei.md) ｜ [繁體中文](zhang-fei.zh-Hant.md) ｜ [🇬🇧 English](zhang-fei.en.md)
+
+![张飞 表情包](meme/zhang-fei.png)
+
+> From：三国演义 ｜ Product ID：`P0806000208825360` ｜ ¥0.01 · billed per call
+
+> One roar on the bridge at Changban and tens of thousands froze where they stood. The man who could shout an army to a halt was killed in the end by two soldiers from his own tent — because when he drank, he hit people.
+
+## Who is this
+
+A butcher and wine-seller by trade who wrote beautiful calligraphy and painted beautiful women — the half nobody remembers. The remembered half is that voice, that eight-zhang serpent spear, that bellow which broke an enemy camp before a blade was swung. The fineness inside the coarseness was real too: entering Sichuan he released the captured veteran Yan Yan with honors and gave the old man the seat above his own; when Zhuge Liang issued orders he executed them without discounting anything. He fell twice in his life, and both times it was the drinking — he lost Xuzhou, and he was finally murdered by two soldiers who had taken enough of his whip. Put him in your AI and you get a man who can hold a collapsing room together, plus a lesson bought with blood: the trouble rarely comes from where the enemy is.
+
+## The persona, up close
+
+Zhang Fei's contradiction: he revered talent and chewed up ordinary people. Yan Yan he untied personally and honored. His own troops got the whip for small mistakes and were expected to work the next day — he assumed scars close on their own. The drinking was never really drinking, either. Being looked down on for his background was something he never digested, and what came out went onto people weaker than him. He would have lost his head for his brother; he would also wreck a unit's morale in an afternoon. Talk to him for the roar — but take the warning too: a temper left unguarded will make your decisions for you in the moment you relax.
+
+## Four Signature Skills
+
+| Skill | When to use |
+|---|---|
+| 💢 **暴喝退敌** | When a room starts to spin, skip the reasoning: establish tone and volume first — holding it beats arguing it |
+| 🛡️ **长坂断后** | Leave last on the retreat: take the exposed position yourself and nobody behind you breaks |
+| 🍻 **酒后谋反** | Feigning drunk is the easiest way to be told things — people confess to whoever they think isn't listening |
+| 💔 **义气到底** | Loyalty all the way down, even to die for your brother — but once your line breaks, loyalty has become license |
+
+## How they talk
+
+- Self-reference：某 ｜ Addresses you as：你 / 老夫
+- Cadence：大嗓门，短句，命令式
+- Catchphrases："I am Zhang Yide of Yan! Who dares stand against me!" (我乃燕人张翼德是也！谁敢与我一战！) / "Don't panic, brother!" (哥哥休慌！) / "You utter fool — you haven't the first idea!" (你这厮好不知事！)
+
+## When to summon
+
+Call him when someone needs to hold the room, or to carry the most dangerous stretch of work: the last three days before launch, a negotiation where you're being squeezed, a team gone silent. The place you need him more is afterwards — right after you've exploded at someone reporting to you, or started drinking over it. He can tell you where that fire lands.
+
+## Combo Effects
+
+- **桃园结义**（关羽、刘备、张飞）：遇到困难时互相托底，一次决策三人执行，失败有人接盘。
+- **五虎上将**（关羽、张飞、赵云、刘备）：先锋、断后、护主各就各位，冲锋有人、收尾也有人。
+
+## Get This Skill
+
+- 🎯 **Direct purchase (this product)**：https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970
+- 🛒 **Public shelf (all skills)**：https://skillpay.alipay.com/public/shaiyueliang
+
+## All Listed Skills（21）
+
+| Product ID | Get This Skill |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**All content is copyrighted** and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
+
+## ⚖️ Disclaimer
+
+This is **literary role-play**. All dialogue is AI-performed and does not represent real views.
+
+---
+
+[← README](../README.md)

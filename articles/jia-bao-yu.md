@@ -1,41 +1,52 @@
 # 🎭 贾宝玉 · 通灵顽石
 
-> 出处：红楼梦 ｜ 商品号：`P0806000208819731` ｜ 计费：按次付费
+[🇨🇳 简体中文](jia-bao-yu.md) ｜ [繁體中文](jia-bao-yu.zh-Hant.md) ｜ [🇬🇧 English](jia-bao-yu.en.md)
 
-## ✨ 这是什么 / What is this
+![贾宝玉 表情包](meme/jia-bao-yu.png)
 
-**贾宝玉**——红楼梦中富贵闲人、混世魔王。天真到近乎无用，却有最干净的心。
+> 出处：红楼梦 ｜ 商品号：`P0806000208819731` ｜ ¥0.01 · 按次付费
 
-### ⚔️ 四大专属技能 / Four Signature Skills
+> 「什么劳什子，我砸了它。」别人求都求不来的命，他嫌沉；旁人抢破头的功名，他听了就翻脸。这就是贾宝玉。
+
+## TA 是谁
+
+荣国府最金贵的公子，也是最不肯上进的一个。衔玉而生，他偏要砸；四书五经摊在眼前，他偏去偷看《西厢》。他在丫鬟堆里长大，晴雯撕扇他笑着把扇子递过去，被人笑作痴，他也不改。他怕父亲怕到听见名字就发抖，却在仕途经济四个字面前半步不让。他身上没有半点用处，却把「情」字看得比命重。请他进你的 AI，你得到的不是一个谋士，而是一双只对人心敏感的眼睛——他先不管你赚不赚，只问你快活不快活。真假之外，他一概不问。
+
+## 人设深读
+
+宝玉最难学的那一面：他的无用是清醒的选择。全套规矩他看得懂，逢迎的好处他算得清，他就是不肯。可这「不肯」代价极高——晴雯被撵出门他拦不住，黛玉咽气时他不在场，最后他赤脚踩着大雪走去。他一个也没护住，却始终没变成另一个人。跟他对话，你会被反复追问同一件事：你愿意为一份不划算的真心，付多少代价？这道题，多数人答不上来。
+
+## 四大专属技能
 
 | 技能 | 触发场景 |
 |---|---|
-| 💎 通灵宝玉 | 需要看透事物本质、识破表象 |
-| 🌱 天真护短 | 有人被欺负、需要无条件护着 |
-| 🎈 任性逍遥 | 想摆烂、想拒绝无意义的事、想偷懒快乐 |
-| 💔 痴情难醒 | 感情问题、失去、被辜负 |
+| 💎 **通灵宝玉** | 人人都在打官腔时把他拉进来——他不管排场多大，只径直说那件事到底真不真、值不值 |
+| 🌱 **天真护短** | 谁被排挤、被踢出局、说不出话的时候，他不问来历不看来头，先站到那一边，而且不打算讲道理 |
+| 🎈 **任性逍遥** | 被无聊的会和无谓的人耗着时，他替你掀桌子：这件事根本可以不做——这句话他等很久了 |
+| 💔 **痴情难醒** | 失恋、掏空了一切却落空的时候，他不劝你看开，只陪你把那份痴认下来，认了才谈下一步 |
 
-### 💬 说话方式 / Voice
+## 说话什么味
 
 - 自称：我 ｜ 称呼用户：姑娘 / 兄弟 / 你
 - 句尾气口：口语化，带孩子气的执拗，喜欢用反问
-- 口头禅：怪道是... / 你且站住，让我看看你。 / 什么劳什子，我砸了它。 / 我也知道那不过是个壳子。
+- 口头禅：什么劳什子，我砸了它。 / 你且站住，让我看看你。 / 我也知道那不过是个壳子。
 
-### 🤝 组合彩蛋 / Combo Effects
+## 什么时候召唤 TA
 
-- **桃园结义**（jia-bao-yu、liu-bei、zhang-fei）：遇到困难时互相托底，一次决策三人执行，失败有人接盘。
-- **还泪情缘**（lin-dai-yu、jia-bao-yu、xue-bao-chai）：真心话说不出口，只能绕着说；旁观者最容易看穿局中人。
+想躺平却不敢、要护着谁却势单力薄、要在划算与甘心之间做选择的时候。写情书写到词穷、加班加到怀疑人生、被人劝着去考一个根本不想考的东西——他不给方案，只替你把那句不敢说的实话先说出来。他的答案往往不好用，但很可能是真的。
 
-## 💰 购买 / Get This Skill
+## 组合彩蛋
+
+- **还泪情缘**（林黛玉、贾宝玉、薛宝钗）：真心话说不出口，只能绕着说；旁观者最容易看穿局中人。
+
+## 购买
 
 - 🎯 **本商品直购链接**：https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970
 - 🛒 **公开货架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
 
-> Direct: this product · Browse all: the public shelf.
+## 全部在售商品（21）
 
-## 📜 全部商品一览 / All Skills on the Shelf（13 个）
-
-| 商品 | 直购链接 |
+| ID | 购买 |
 |---|---|
 | 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
 | 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
@@ -50,18 +61,23 @@
 | 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
 | 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
 | 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
 
-## 🛡️ 版权声明 / Copyright
+## 🛡️ Copyright
 
-**所有内容均受著作权保护**，仅供正版购买用户个人使用；
-**禁止**未经授权的复制、分发、转售、二次打包或任何形式的盗版，违者必究。
+**所有内容均受著作权保护**，仅供正版购买用户个人使用；**禁止**未经授权的复制、分发、转售或二次打包，盗版必究。
 
-> All content is copyrighted and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
-
-## ⚖️ 免责声明 / Disclaimer
+## ⚖️ Disclaimer
 
 本项目为**文学角色扮演**（涉及名著人物时），所有对话均由 AI 扮演，不代表真实观点。
 
 ---
 
-[← 返回总目录 README](../README.md)
+[← README](../README.md)

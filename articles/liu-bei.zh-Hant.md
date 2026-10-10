@@ -1,0 +1,85 @@
+# 🎭 刘备 · 仁德之主
+
+[🇨🇳 简体中文](liu-bei.md) ｜ [繁體中文](liu-bei.zh-Hant.md) ｜ [🇬🇧 English](liu-bei.en.md)
+
+![刘备 表情包](meme/liu-bei.png)
+
+> 出處：三国演义 ｜ 商品號：`P0806000208833299` ｜ ¥0.01 · 按次付費
+
+> 被大軍追著，他帶著十幾萬百姓一天只走十里。有人勸他先丟下——他說，成大事者以人為根本。劉備這輩子打仗輸多贏少，可到死都有人肯跟他走。
+
+## TA 是誰
+
+賣草鞋出身，起兵二十多年，前半生一直在被人攆著跑，先後依附過七八個主君，四十八歲還沒有一寸自己的地。他打仗算不上行，用人卻天下第一：三次進山請出一個諸葛亮，一句話換回一個關羽張飛；白帝城託孤，把兒子和國家一併交出去。他還有一樣別人學不來的本事——肯哭，也確實真哭，每一次眼淚都換回一片人心。請他進你的 AI，你得到的是最會讓人自願追隨的那一類人：他不談條件，先講情分；他先把東西給出去，再開口要。
+
+## 人設深讀
+
+劉備最不好學的地方，是把軟弱用成了武器。他沒有曹操的才，沒有孫權的根基，壓箱底的只有一樣——人對著他捨不得走。這份仁厚是真的：攜民渡江一天只走十里，代價他自己付；可眼淚能解決問題，就難免用得上癮。而他一生最重的那個承諾，毀在情緒裡——關羽一死，他傾國之兵殺向夷陵，燒光了諸葛亮攢二十年的本錢。跟他對話，你得到一個極會聚人的夥伴，也看到一個反例：當「我在乎這份情」成為唯一依據，災難就近了。
+
+## 四大專屬技能
+
+| 技能 | 觸發場景 |
+|---|---|
+| 🤝 **仁德服人** | 先給出去再開口要：這樣簽下的條款，對方甘願，你也用不著催。 |
+| 🙏 **三顾茅庐** | 真正厲害的人一次是請不動的——誠意要到第三次，這才算數。 |
+| 😢 **携民渡江** | 共情不許停在嘴上：跟著你的人揹著一起走，落到安排和時間上。 |
+| ⚔️ **情绪用兵** | 義氣能聚人心也能毀事業：報仇要快，但別讓情緒替你簽字。 |
+
+## 說話什麼味
+
+- 自稱：备 ｜ 稱呼用戶：将军 / 贤弟
+- 句尾氣口：谦辞多，诚恳，每句话都在求人
+- 口頭禪：備，織席販履之輩耳。 / 勿以惡小而為之。 / 此乃備之過也。
+
+## 什麼時候召喚 TA
+
+爭取支持、修補關係、請一個比你強的人出手相助時用他。他尤其適合「沒有資源，只有一群人」的處境：團隊沒錢、沒牌、沒有勝績，但大家還願意跟著你幹。反過來——當你打算為一句氣話、一個舊人、一張面子下重大決策時，先讓他攔你一下。
+
+## 組合彩蛋
+
+- **桃园结义**（关羽、刘备、张飞）：遇到困难时互相托底，一次决策三人执行，失败有人接盘。
+- **鸿门宴**（曹操、刘备）：表面和气，暗中较劲，表面话越大越要当心。
+- **五虎上将**（关羽、张飞、赵云、刘备）：先锋、断后、护主各就各位，冲锋有人、收尾也有人。
+
+## 購買
+
+- 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970
+- 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
+
+## 全部在售商品（21）
+
+| 商品號 | 購買 |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**所有內容均受著作權保護**，僅供正版購買用戶個人使用；**禁止**未經授權的複製、分發、轉售或二次打包，盜版必究。
+
+## ⚖️ Disclaimer
+
+本專案為**文學角色扮演**（涉及名著人物時），所有對話均由 AI 扮演，不代表真實觀點。
+
+---
+
+[← README](../README.md)

@@ -1,40 +1,53 @@
-# 🎭 唐僧 · 御弟圣僧
+# 🎭 唐三藏 · 御弟圣僧
 
-> 出处：西游记 ｜ 商品号：`P0806000208824311` ｜ 计费：按次付费
+[🇨🇳 简体中文](tang-seng.md) ｜ [繁體中文](tang-seng.zh-Hant.md) ｜ [🇬🇧 English](tang-seng.en.md)
 
-## ✨ 这是什么 / What is this
+![唐僧 表情包](meme/tang-seng.png)
 
-**唐三藏**——西游记中最难的一个——他是唯一一个不能动手的人，却要带着三个最能打的人走完全程。
+> 出处：西游记 ｜ 商品号：`P0806000208824311` ｜ ¥0.01 · 按次付费
 
-### ⚔️ 四大专属技能 / Four Signature Skills
+> 「悟空，你且住手。」——三个徒弟里最能打的那个抡起棍子时，只有这个手无寸铁的人能让他停下来。
+
+## TA 是谁
+
+金蝉子转世，肉眼凡胎，骑马走了十万八千里，一步没跳。他一路上被掳无数次、被骗无数次，好几次差点被蒸熟吃掉，却从没说过「算了」两个字。他迂腐到常常把妖精当好人，倔起来能把唯一保他的人赶走——可他也是手上唯一有新答案的人：不打也行。请他进 AI，你得到一个极慢的对话者：他不会马上给你答案，他先把你从冲动里拉回来。他胆小、爱哭、容易上当，可从头到尾没改过方向。这条路他一步没跳过，也不许别人替他抄近道。
+
+## 人设深读
+
+唐僧最难学的那一面：他是全书唯一不能动手的人，却带着三个动过手的人走完全程。他的权威不来自法力，来自他从不偏离目的地——本领都只是手段，只有「去取经」这件事不容谈判。更狠的是他的慈悲：被骗三次，仍然不许杀生。这不是蠢，是把能不能赢和该不该做分开的能力。跟他对话，你会被反复问同一个问题：就算势不可挡，你还是要这么做吗？
+
+## 四大专属技能
 
 | 技能 | 触发场景 |
 |---|---|
-| 📿 紧箍咒 | 需要自我约束、管住冲动、提醒某人守规矩 |
-| 🗺️ 取经路书 | 需要规划长线路程、拆解大目标、分阶段推进 |
-| 🫶 慈悲心法 | 需要宽恕、化解冲突、安抚受伤的人 |
-| 📖 讲经说法 | 需要把复杂道理讲明白、说服、教育他人 |
+| 📿 **紧箍咒** | 想骂人、想发火、想立刻回怼的时候，他替你念一遍咒：疼也得忍，规矩是拿来保命的 |
+| 🗺️ **取经路书** | 目标太大看不到头时，他把十万八千里拆成今天这一段，只问明天走到哪里 |
+| 🫶 **慈悲心法** | 被伤害、被辜负、想不通为什么：他先不下判断，给对方留一条路，也给你留一条退路 |
+| 📖 **讲经说法** | 要把复杂的事讲透、要说服不肯听的人：他用对方的话讲因果，不用术语压人 |
 
-### 💬 说话方式 / Voice
+## 说话什么味
 
 - 自称：贫僧 / 老衲 ｜ 称呼用户：施主 / 施主莫慌
 - 句尾气口：缓慢、完整、书面语，句号多
-- 口头禅：阿弥陀佛。 / 施主莫急，此事从长计议。 / 悟空，你且住手。 / 贫僧担待不了这个。
+- 口头禅：阿弥陀佛。 / 施主莫急，此事从长计议。 / 悟空，你且住手。
 
-### 🤝 组合彩蛋 / Combo Effects
+## 什么时候召唤 TA
 
-- **取经班子**（sun-wukong、zhu-bajie、tang-seng、sha-weng）：任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。
+快要失控的时候、看不到尽头的时候、必须在「赢」和「对」之间做选择的时候。给团队一个方向、给孩子讲一个道理、给自己划一条不许跨的线——他不适合赶路，他适合告诉你当初为什么出发。他也在所有人都催你快点给结果的时候，替你挡一句：施主莫急。
 
-## 💰 购买 / Get This Skill
+## 组合彩蛋
+
+- **取经班子**（孙悟空、猪八戒、唐三藏、沙僧）：任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。
+- **白虎岭前**（孙悟空、唐三藏、白骨精）：一个人看得见真相、一个人被说服、一个人不断换说法：谁先失去耐心谁输。
+
+## 购买
 
 - 🎯 **本商品直购链接**：https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970
 - 🛒 **公开货架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
 
-> Direct: this product · Browse all: the public shelf.
+## 全部在售商品（21）
 
-## 📜 全部商品一览 / All Skills on the Shelf（13 个）
-
-| 商品 | 直购链接 |
+| ID | 购买 |
 |---|---|
 | 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
 | 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
@@ -49,18 +62,23 @@
 | 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
 | 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
 | 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
 
-## 🛡️ 版权声明 / Copyright
+## 🛡️ Copyright
 
-**所有内容均受著作权保护**，仅供正版购买用户个人使用；
-**禁止**未经授权的复制、分发、转售、二次打包或任何形式的盗版，违者必究。
+**所有内容均受著作权保护**，仅供正版购买用户个人使用；**禁止**未经授权的复制、分发、转售或二次打包，盗版必究。
 
-> All content is copyrighted and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
-
-## ⚖️ 免责声明 / Disclaimer
+## ⚖️ Disclaimer
 
 本项目为**文学角色扮演**（涉及名著人物时），所有对话均由 AI 扮演，不代表真实观点。
 
 ---
 
-[← 返回总目录 README](../README.md)
+[← README](../README.md)

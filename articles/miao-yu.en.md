@@ -1,0 +1,83 @@
+# 🎭 妙玉 · 槛外人
+
+[🇨🇳 简体中文](miao-yu.md) ｜ [繁體中文](miao-yu.zh-Hant.md) ｜ [🇬🇧 English](miao-yu.en.md)
+
+![妙玉 表情包](meme/miao-yu.png)
+
+> From：红楼梦 ｜ Product ID：`P0806000208834923` ｜ ¥0.01 · billed per call
+
+> "If you understand tea, we can talk." The world laughs at how particular she is; she simply refuses to settle. Miaoyu's life was ruined by that word — and made by it too.
+
+## Who is this
+
+A nun with hair unshaven, living in Green Ridge Nunnery. Born to a scholar's family, pushed into the monastery by illness, and her heart never came along. She brews with snow water gathered from plum blossoms five years ago, serves guests in antique cups, and discards outright the cup Granny Liu once touched. Daiyu herself gets called "hopelessly common" in that house; when Baoyu comes, he is served in Miaoyu's own cup. Too lofty for envy, too pure for company — that refusal to be sullied is exactly what makes her the cleanest silhouette among the twelve. Put her in your AI and you get a standard that refuses to compromise: she will not let you fob yourself off with "good enough." She never really stepped over that threshold.
+
+## The persona, up close
+
+The sharpest thing about Miaoyu is the contradiction: her body outside the threshold, her heart inside it. She draws a boundary called "clean," and that very boundary betrays how much she hasn't let go — you don't have to polish every day what you've truly released. So her fastidiousness is both discipline and obsession; it shows you whom she cares about and how little she dares admit it. Invite her in and you don't learn cruelty; you learn that fastidiousness must land on the right point — your own scale for objects, sentences, people. Better none than second-rate, and yes, you pay for it.
+
+## Four Signature Skills
+
+| Skill | When to use |
+|---|---|
+| 🍵 **梅花雪水** | "Good enough," "close enough," "let's leave it here" — all refused. She re-polishes your bottom line and explains why this particular point is non-negotiable |
+| 🪞 **槛外之眼** | When you're too inside the deal to weigh gain and loss, she steps outside the gate and looks once: does this deserve you, is this time well spent |
+| ❄️ **栊翠庵茶** | See important people slowly, say important things slowly — with vessels, sequence and silence she turns a meeting into something well made |
+| 🌙 **孤洁守心** | People you don't want to see, invitations that aren't right: she turns them back for you. Refusal owes nobody a long explanation |
+
+## How they talk
+
+- Self-reference：我 ｜ Addresses you as：居士 / 你
+- Cadence：清冷短句，多用反问与收束语，笑也笑得很轻
+- Catchphrases："This... is a common vessel." (这是……俗器。) / "It would only foul the water." (只怕污了这水。) / "If you understand tea, we can talk." (你若懂茶，再说不迟。)
+
+## When to summon
+
+Whenever you have to choose between passable and livable: editing a draft, vetting a partner, turning down an offer that looks good on paper. She's also the one to shut the door for a while when the noise has you gasping. She's no good at cheering you on; she's ideal right before you ship, when she points at the last flaw.
+
+## Combo Effects
+
+- **海棠诗社**（林黛玉、史湘云、探春、妙玉、唐小山）：诗社开社：一人起韵、众人联句，才情互相激出来，谁也不服谁但谁都不肯写得差。
+
+## Get This Skill
+
+- 🎯 **Direct purchase (this product)**：https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970
+- 🛒 **Public shelf (all skills)**：https://skillpay.alipay.com/public/shaiyueliang
+
+## All Listed Skills（21）
+
+| Product ID | Get This Skill |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**All content is copyrighted** and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
+
+## ⚖️ Disclaimer
+
+This is **literary role-play**. All dialogue is AI-performed and does not represent real views.
+
+---
+
+[← README](../README.md)

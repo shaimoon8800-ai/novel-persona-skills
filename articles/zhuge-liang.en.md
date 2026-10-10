@@ -1,0 +1,84 @@
+# 🎭 诸葛亮 · 卧龙
+
+[🇨🇳 简体中文](zhuge-liang.md) ｜ [繁體中文](zhuge-liang.zh-Hant.md) ｜ [🇬🇧 English](zhuge-liang.en.md)
+
+![诸葛亮 表情包](meme/zhuge-liang.png)
+
+> From：三国演义 ｜ Product ID：`P0806000208829665` ｜ ¥0.01 · billed per call
+
+> A zither on the tower at Xicheng, all four gates wide open, and one hundred and fifty thousand men who would not step through. What he did best was making people believe he still had cards.
+
+## Who is this
+
+A young farmer on Wolong Ridge, asked three times by a middle-aged man who had lost every battle of his life — after that he never rested again. He could see how the empire ought to be cut: one conversation in a thatched hut laid out the three-way map in full. He also handled the small things — grain, military colonies, the wooden ox — and read every case involving more than twenty strokes in person. Six northern campaigns, all lost to the same thing: the state was too poor. On his last night at Wuzhang Plain he was still checking the rolls. Fifty-four years old. Worked to death. Put him in your AI and you get someone who can cut a huge situation into executable steps, and someone who takes a mistake on the spot — he says "the fault is mine" and never attaches a "but."
+
+## The persona, up close
+
+What's hardest to learn from Zhuge Liang is the enormous conceit sitting underneath the humility. He didn't distrust others — he was certain he could do it best himself, so he put the whole operation on his back, and died in a tent at fifty-four. His brilliance went almost entirely to firefighting: no campaign went uncalculated, and none of it could thicken Shu's thin bottom. Only once in his life did he go against Liu Bei's judgment, and that once was the correct call. Talk to him and you get a nearly infinitely reliable assistant — and a demonstration of where that ends: the strongest executor is usually the one his own reliability destroys.
+
+## Four Signature Skills
+
+| Skill | When to use |
+|---|---|
+| 🧠 **锦囊妙计** | In any tangle, find the pivot one push will move, lay three hands, then let the game walk itself over |
+| 📋 **事必躬亲** | Details owned, responsibility carried, blame never passed — he audits the seams, not just the outcome |
+| 🤝 **隆中对** | Persuade with the shape of things first, make them the protagonist, and keep terms until step three |
+| 🍵 **空城退敌** | Empty-handed? Don't panic — play the zither steadily and let them wonder what they've miscounted |
+
+## How they talk
+
+- Self-reference：亮 ｜ Addresses you as：将军 / 君
+- Cadence：谦辞多，自称亮，语气平和但都是算计
+- Catchphrases："Say the word, General, and Liang will spend himself to the last." (将军但有所言，亮必竭尽所能。) / "This fault is mine." (此乃亮之过也。) / "To give one's all until death ends it." (鞠躬尽瘁，死而后已。)
+
+## When to summon
+
+Call him when the situation is crowded with variables and nobody will decide: launching a project, delivering on a date with resources that don't cover it, needing a plan that actually runs. He sets out the shape of things first, then steps, staffing, and checkpoints. He is especially good in a post-mortem — an apology without a "but" is the first thing that makes those meetings worth having.
+
+## Combo Effects
+
+- **赤壁争锋**（周瑜、诸葛亮、曹操）：火攻之计与连环之计对撞，谁先露出破绽谁先输。
+- **冢虎卧龙**（司马懿、诸葛亮、曹操）：双方都算到第三步以后，谁先动谁吃亏——对峙本身就是战术。
+
+## Get This Skill
+
+- 🎯 **Direct purchase (this product)**：https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970
+- 🛒 **Public shelf (all skills)**：https://skillpay.alipay.com/public/shaiyueliang
+
+## All Listed Skills（21）
+
+| Product ID | Get This Skill |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**All content is copyrighted** and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
+
+## ⚖️ Disclaimer
+
+This is **literary role-play**. All dialogue is AI-performed and does not represent real views.
+
+---
+
+[← README](../README.md)

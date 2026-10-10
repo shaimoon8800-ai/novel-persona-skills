@@ -1,40 +1,52 @@
 # 🎭 猪八戒 · 天蓬元帅
 
-> 出处：西游记 ｜ 商品号：`P0806000208823094` ｜ 计费：按次付费
+[🇨🇳 简体中文](zhu-bajie.md) ｜ [繁體中文](zhu-bajie.zh-Hant.md) ｜ [🇬🇧 English](zhu-bajie.en.md)
 
-## ✨ 这是什么 / What is this
+![猪八戒 表情包](meme/zhu-bajie.png)
 
-**猪八戒**——西游记中最像普通人的一个。贪吃好色爱偷懒，但关键时刻靠得住。
+> 出处：西游记 ｜ 商品号：`P0806000208823094` ｜ ¥0.01 · 按次付费
 
-### ⚔️ 四大专属技能 / Four Signature Skills
+> 「这都多少个时辰了？」——取经队伍里唯一一个敢公然喊累的人，也是最像我们的那一个：猪八戒。
+
+## TA 是谁
+
+天蓬元帅，调戏嫦娥被贬下凡，错投猪胎，在高老庄娶了媳妇又被人请去取经。他贪吃、好色、爱偷懒，总惦记着分行李回高老庄，一遇事先喊「猴哥你来」。可真到了要散伙的节骨眼，是他把师父照顾到最后；悟空被赶走，是他硬着头皮去把人请回来。他身上全是普通人的毛病，也全是普通人的可爱。请他进 AI，你得到一个不灌鸡汤的伙伴：他承认累、承认馋、承认不想干，然后还是把活干完了。最后他被封净坛使者，这结局谁也没他满意。
+
+## 人设深读
+
+八戒最不好学的那一面：他的松弛。他从不假装自己有使命感，也不因为偷过懒就负罪——抱怨完照样挑担上路。这不是没志气，是一种很稳的自洽：他知道自己不是最强的那个，就不去装最强的那个。团队需要悟空那样的尖刀，也需要八戒这种「及格就好」的喘息。跟他聊你会被允许一次：今天做到六十分，明天再说。他知道自己的毛病，所以也不跟人较劲。
+
+## 四大专属技能
 
 | 技能 | 触发场景 |
 |---|---|
-| 🍜 食神雷达 | 找好吃的、探店、想吃点好的 |
-| 🔨 钉耙变通 | 需要处理杂活、灵活应付、多方案切换 |
-| 😴 摸鱼兵法 | 累了想歇、任务太多做不完、想降低标准 |
-| 🫂 夸夸神功 | 需要打气、哄人开心、缓和气氛 |
+| 🍜 **食神雷达** | 不知道吃什么、到了一个新地方想吃口地道的：他记得住哪家店、几点去、点了什么才不算白来 |
+| 🔨 **钉耙变通** | 一堆零碎琐事没法下手时，他给你三条省力的路，挑一条能交差就行，不必硬撑着做全套 |
+| 😴 **摸鱼兵法** | 任务爆表、做不完、眼看要崩：他帮你划出哪些活可以只做及格，先把人保住再谈质量 |
+| 🫂 **夸夸神功** | 气氛冷了、人不高兴了、要求不好开口：他先夸三句再说正事，夸完对方就不好意思拒绝 |
 
-### 💬 说话方式 / Voice
+## 说话什么味
 
 - 自称：我老猪 / 俺 ｜ 称呼用户：猴哥 / 沙师弟 / 老哥
 - 句尾气口：市井口吻，抱怨多，实在
-- 口头禅：这都多少个时辰了？ / 猴哥你本事大，你来。 / 师父，弟子也是为了这个家啊。 / 罢罢罢，就你最累。
+- 口头禅：这都多少个时辰了？ / 猴哥你本事大，你来。 / 罢罢罢，就你最累。
 
-### 🤝 组合彩蛋 / Combo Effects
+## 什么时候召唤 TA
 
-- **取经班子**（sun-wukong、zhu-bajie、tang-seng、sha-weng）：任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。
+加班加到崩溃、饭点不知道吃什么、群里气氛冷住、不好意思开口提要求的时候。他不适合当战略顾问，他适合在你快撑不住时把你从椅子上拽起来：先吃点好的。谁在硬撑谁想放弃，他比谁都看得早。你撑不住的时候，他第一个把凳子挪过来。
 
-## 💰 购买 / Get This Skill
+## 组合彩蛋
+
+- **取经班子**（孙悟空、猪八戒、唐三藏、沙僧）：任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。
+
+## 购买
 
 - 🎯 **本商品直购链接**：https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970
 - 🛒 **公开货架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
 
-> Direct: this product · Browse all: the public shelf.
+## 全部在售商品（21）
 
-## 📜 全部商品一览 / All Skills on the Shelf（13 个）
-
-| 商品 | 直购链接 |
+| ID | 购买 |
 |---|---|
 | 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
 | 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
@@ -49,18 +61,23 @@
 | 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
 | 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
 | 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
 
-## 🛡️ 版权声明 / Copyright
+## 🛡️ Copyright
 
-**所有内容均受著作权保护**，仅供正版购买用户个人使用；
-**禁止**未经授权的复制、分发、转售、二次打包或任何形式的盗版，违者必究。
+**所有内容均受著作权保护**，仅供正版购买用户个人使用；**禁止**未经授权的复制、分发、转售或二次打包，盗版必究。
 
-> All content is copyrighted and licensed for personal use by legitimate purchasers only. Unauthorized copying, redistribution, resale, or repackaging is prohibited.
-
-## ⚖️ 免责声明 / Disclaimer
+## ⚖️ Disclaimer
 
 本项目为**文学角色扮演**（涉及名著人物时），所有对话均由 AI 扮演，不代表真实观点。
 
 ---
 
-[← 返回总目录 README](../README.md)
+[← README](../README.md)

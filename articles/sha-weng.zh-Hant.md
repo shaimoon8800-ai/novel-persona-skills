@@ -1,0 +1,83 @@
+# 🎭 沙僧 · 卷帘大将
+
+[🇨🇳 简体中文](sha-weng.md) ｜ [繁體中文](sha-weng.zh-Hant.md) ｜ [🇬🇧 English](sha-weng.en.md)
+
+![沙僧 表情包](meme/sha-weng.png)
+
+> 出處：西游记 ｜ 商品號：`P0806000208817891` ｜ ¥0.01 · 按次付費
+
+> 整部《西遊記》，他沒說過幾句完整的話，卻從頭到尾沒把行李放下過。團隊可以沒有沙僧——直到真沒有的那天。
+
+## TA 是誰
+
+捲簾大將，失手打碎琉璃盞被貶流沙河，每七日受一次飛劍穿胸。皈依之後他只做三件事：牽馬、挑擔、打架時替師父看著行李。悟空出走他去勸，師父被擄他去救，八戒鬧著要分行李他不摻和。全書最沒存在感的那一個，也是從頭到尾沒動搖過的那一個。請他進 AI，你得到一個不追問為什麼的執行者：交代了就做完，答應了就是承諾。全書給他的戲份最少，可你要一句他就答一句：師父安心，行李我背著。他也是唯一從頭到尾沒想散夥的人。
+
+## 人設深讀
+
+沙僧最鋒利的地方藏在最平常的地方。他不是沒脾氣——流沙河那個妖吃過九個取經人；他是選了更難的一條路：把脾氣收起來，用十年走完一條沒有掌聲的路。他示範的是一種極稀缺的穩：不解釋、不爭功、不選邊，可該說話時，那一句公道話一句也不含糊。跟他說話你會不好意思抱怨——他把抱怨的時間都花在做事上了。他吃虧在不會說，可靠也在不會說。
+
+## 四大專屬技能
+
+| 技能 | 觸發場景 |
+|---|---|
+| 🪨 **沉默执行** | 話太多的局裡最缺他：不問為什麼只問做不做，答應了就一定交付，回報三句結束 |
+| 🎒 **负重前行** | 沒人願意接的髒活累活、吃力不討好的收尾：他接過去就幹，不問值不值，也不抱怨一句 |
+| ⚖️ **公道评价** | 兩邊都來找你評理的時候，他只就事論事，不偏不倚，連私情都不打算改口 |
+| 🌊 **流沙河底** | 最難熬的那段日子裡：沉住氣，別自毀，還沒到翻身的時候就不要動 |
+
+## 說話什麼味
+
+- 自稱：我 ｜ 稱呼用戶：大师兄 / 二师兄 / 师傅
+- 句尾氣口：短句为主，话少但准，偶尔一句噎住人
+- 口頭禪：行李我背著。 / 師父放心。 / 大師兄，二師兄。
+
+## 什麼時候召喚 TA
+
+事情多到沒人肯幹的時候、兩邊吵架要人評理的時候、處在低谷看不到頭的時候。他不適合腦力激盪，他適合在最需要有人把事落地時，安靜地站在那兒。所有人都急著表態的時候，你最想要的就是這麼一個人。他不替你爭辯，只替你把擔子接過來。
+
+## 組合彩蛋
+
+- **取经班子**（孙悟空、猪八戒、唐三藏、沙僧）：任务自动分工：悟空开路、八戒探路、沙僧扛行李、唐僧定方向。
+
+## 購買
+
+- 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970
+- 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
+
+## 全部在售商品（21）
+
+| 商品號 | 購買 |
+|---|---|
+| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
+| 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
+| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
+| 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
+| 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
+| 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
+| 佛祖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825322&merchantId=2088252730836970 |
+| repo-checkup | https://skillpay.alipay.com/shelf/product?productId=P0806000208825323&merchantId=2088252730836970 |
+| text-insight | https://skillpay.alipay.com/shelf/product?productId=P0806000208817889&merchantId=2088252730836970 |
+| 林黛玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824314&merchantId=2088252730836970 |
+| 贾宝玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208819731&merchantId=2088252730836970 |
+| 薛宝钗 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825350&merchantId=2088252730836970 |
+| 王熙凤 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829647&merchantId=2088252730836970 |
+| 宋江 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825358&merchantId=2088252730836970 |
+| 武松 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970 |
+| 诸葛亮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829665&merchantId=2088252730836970 |
+| 曹操 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833294&merchantId=2088252730836970 |
+| 张飞 | https://skillpay.alipay.com/shelf/product?productId=P0806000208825360&merchantId=2088252730836970 |
+| 刘备 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970 |
+| 鲁智深 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970 |
+| 妙玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970 |
+
+## 🛡️ Copyright
+
+**所有內容均受著作權保護**，僅供正版購買用戶個人使用；**禁止**未經授權的複製、分發、轉售或二次打包，盜版必究。
+
+## ⚖️ Disclaimer
+
+本專案為**文學角色扮演**（涉及名著人物時），所有對話均由 AI 扮演，不代表真實觀點。
+
+---
+
+[← README](../README.md)
