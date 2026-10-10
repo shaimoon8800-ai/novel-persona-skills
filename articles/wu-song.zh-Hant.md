@@ -39,19 +39,18 @@
 
 - **梁山聚义**（宋江、武松、鲁智深）：遇到不平就上，先打了再讲道理。
 - **逼上梁山**（林冲、鲁智深、武松）：忍到什么程度该出手，三个人给出三种答案，最后都指向同一个：忍无可忍。
+- **一丈青**（扈三娘、武松）：女将之勇与行者的狠：两人配合时，正面硬仗几乎不吃亏。
 
 ## 購買
 
 - 🎯 **本商品直購連結**：https://skillpay.alipay.com/shelf/product?productId=P0806000208825359&merchantId=2088252730836970
 - 🛒 **公開貨架（全部在售商品）**：https://skillpay.alipay.com/public/shaiyueliang
 
-## 全部在售商品（44）
+## 全部在售商品（78）
 
 | 商品號 | 購買 |
 |---|---|
-| 观音 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824310&merchantId=2088252730836970 |
 | 猪八戒 | https://skillpay.alipay.com/shelf/product?productId=P0806000208823094&merchantId=2088252730836970 |
-| 唐僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824311&merchantId=2088252730836970 |
 | 白龙马 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817893&merchantId=2088252730836970 |
 | 孙悟空 | https://skillpay.alipay.com/shelf/product?productId=P0806000208824312&merchantId=2088252730836970 |
 | 沙僧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970 |
@@ -93,6 +92,42 @@
 | 探春 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970 |
 | 史湘云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970 |
 | 白骨精 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970 |
+| 晴雯 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836530&merchantId=2088252730836970 |
+| 袭人 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833350&merchantId=2088252730836970 |
+| 刘姥姥 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833352&merchantId=2088252730836970 |
+| 香菱 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834939&merchantId=2088252730836970 |
+| 平儿 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829710&merchantId=2088252730836970 |
+| 鸳鸯 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833356&merchantId=2088252730836970 |
+| 貂蝉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833358&merchantId=2088252730836970 |
+| 吕布 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836532&merchantId=2088252730836970 |
+| 铁扇公主 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834945&merchantId=2088252730836970 |
+| 菩提祖师 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834946&merchantId=2088252730836970 |
+| 玉兔精 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836538&merchantId=2088252730836970 |
+| 申公豹 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833373&merchantId=2088252730836970 |
+| 纣王 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833375&merchantId=2088252730836970 |
+| 黄飞虎 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836539&merchantId=2088252730836970 |
+| 雷震子 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829728&merchantId=2088252730836970 |
+| 比干 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834948&merchantId=2088252730836970 |
+| 宁采臣 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836540&merchantId=2088252730836970 |
+| 辛十四娘 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833379&merchantId=2088252730836970 |
+| 画皮 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833381&merchantId=2088252730836970 |
+| 崂山道士 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833383&merchantId=2088252730836970 |
+| 婴宁 | https://skillpay.alipay.com/shelf/product?productId=P0806000208837765&merchantId=2088252730836970 |
+| 王冕 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829732&merchantId=2088252730836970 |
+| 匡超人 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834950&merchantId=2088252730836970 |
+| 严贡生 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836541&merchantId=2088252730836970 |
+| 唐敖 | https://skillpay.alipay.com/shelf/product?productId=P0806000208830837&merchantId=2088252730836970 |
+| 林之洋 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834951&merchantId=2088252730836970 |
+| 多九公 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836542&merchantId=2088252730836970 |
+| 单雄信 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829735&merchantId=2088252730836970 |
+| 罗成 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834952&merchantId=2088252730836970 |
+| 李元霸 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834953&merchantId=2088252730836970 |
+| 徐茂公 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833391&merchantId=2088252730836970 |
+| 尉迟恭 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833392&merchantId=2088252730836970 |
+| 秦桧 | https://skillpay.alipay.com/shelf/product?productId=P0806000208833393&merchantId=2088252730836970 |
+| 牛皋 | https://skillpay.alipay.com/shelf/product?productId=P0806000208829740&merchantId=2088252730836970 |
+| 梁红玉 | https://skillpay.alipay.com/shelf/product?productId=P0806000208834954&merchantId=2088252730836970 |
+| 岳云 | https://skillpay.alipay.com/shelf/product?productId=P0806000208836543&merchantId=2088252730836970 |
 
 ## 🛡️ Copyright
 
