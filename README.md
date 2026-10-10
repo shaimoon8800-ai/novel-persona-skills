@@ -14,7 +14,7 @@
 
 ---
 
-> 🕒 最近更新 Updated: 2026-10-11 00:46 ｜ 仅提供付费版本 Paid versions only
+> 🕒 最近更新 Updated: 2026-10-11 00:56 ｜ 仅提供付费版本 Paid versions only
 
 ## ✨ 这是什么 / What is this
 
@@ -54,7 +54,7 @@
 | **刘备** | 三国演义 | 最会做人的那个。仁义是真的，可他的江山全靠别人替他打。 | 🤝仁德服人、🙏三顾茅庐、😢携民渡江、⚔️情绪用兵 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970) |
 | **沙僧** | 西游记 | 团队里最沉默的那个。活最重、话最少、位置最稳。 | 🪨沉默执行、🎒负重前行、⚖️公道评价、🌊流沙河底 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970) |
 | **鲁智深** | 水浒传 | 最痛快的一条汉子。路见不平就动手，打完就喝酒，从不后悔。 | ⚔️路见不平、🌱倒拔垂杨、🍶大碗喝酒、🧘大彻大悟 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970) |
-| **妙玉** | 红楼梦 | 最干净也最放不下的一个。嫌别人脏，偏偏自己一样都没舍得扔。 | 🍵梅花雪水、🪞槛外之眼、❄️栊翠庵茶、🌙孤洁守心 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836517&merchantId=2088252730836970) |
+| **妙玉** | 红楼梦 | 最干净也最放不下的一个。嫌别人脏，偏偏自己一样都没舍得扔。 | 🍵梅花雪水、🪞槛外之眼、❄️栊翠庵茶、🌙孤洁守心 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970) |
 | **探春** | 红楼梦 | 最有担当的一个姑娘。脑子最清楚、手段最硬，偏生是庶出。 | 🌹玫瑰带刺、🧮兴利除弊、🗡️抄检不退、📜理家章程 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970) |
 | **史湘云** | 红楼梦 | 最不像小姐的小姐。孤儿身世，笑得比谁都响，醉了就地睡。 | 🍶醉眠芍药、✍️即景联诗、☀️憨直快语、🧥男装解缚 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970) |
 | **白骨精** | 西游记 | 最懂人心的一个妖。打不过就换一张脸，换到你分不清哪个是真的。 | 🎭三变其身、🦴识骨辨心、🕸️挑拨离间、⏳一计三试 | ✅ **在售** ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970) |
@@ -127,10 +127,10 @@
 - **刘备**：[📄 简体](articles/liu-bei.md) ｜ [繁體](articles/liu-bei.zh-Hant.md) ｜ [EN](articles/liu-bei.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833299&merchantId=2088252730836970)
 - **沙僧**：[📄 简体](articles/sha-weng.md) ｜ [繁體](articles/sha-weng.zh-Hant.md) ｜ [EN](articles/sha-weng.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208817891&merchantId=2088252730836970)
 - **鲁智深**：[📄 简体](articles/lu-zhishen.md) ｜ [繁體](articles/lu-zhishen.zh-Hant.md) ｜ [EN](articles/lu-zhishen.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833300&merchantId=2088252730836970)
-- **妙玉**：[📄 简体](articles/miao-yu.md) ｜ [繁體](articles/miao-yu.zh-Hant.md) ｜ [EN](articles/miao-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836517&merchantId=2088252730836970)
+- **妙玉** 🆕：[📄 简体](articles/miao-yu.md) ｜ [繁體](articles/miao-yu.zh-Hant.md) ｜ [EN](articles/miao-yu.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834923&merchantId=2088252730836970)
 - **探春**：[📄 简体](articles/tan-chun.md) ｜ [繁體](articles/tan-chun.zh-Hant.md) ｜ [EN](articles/tan-chun.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208834933&merchantId=2088252730836970)
 - **史湘云**：[📄 简体](articles/shi-xiangyun.md) ｜ [繁體](articles/shi-xiangyun.zh-Hant.md) ｜ [EN](articles/shi-xiangyun.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836525&merchantId=2088252730836970)
-- **白骨精** 🆕：[📄 简体](articles/bai-gujing.md) ｜ [繁體](articles/bai-gujing.zh-Hant.md) ｜ [EN](articles/bai-gujing.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970)
+- **白骨精**：[📄 简体](articles/bai-gujing.md) ｜ [繁體](articles/bai-gujing.zh-Hant.md) ｜ [EN](articles/bai-gujing.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833336&merchantId=2088252730836970)
 - **牛魔王**：[📄 简体](articles/niu-mowang.md) ｜ [繁體](articles/niu-mowang.zh-Hant.md) ｜ [EN](articles/niu-mowang.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208836519&merchantId=2088252730836970)
 - **二郎神**：[📄 简体](articles/er-lang-shen.md) ｜ [繁體](articles/er-lang-shen.zh-Hant.md) ｜ [EN](articles/er-lang-shen.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833314&merchantId=2088252730836970)
 - **林冲**：[📄 简体](articles/lin-chong.md) ｜ [繁體](articles/lin-chong.zh-Hant.md) ｜ [EN](articles/lin-chong.en.md) ｜ [🎯 直购](https://skillpay.alipay.com/shelf/product?productId=P0806000208833315&merchantId=2088252730836970)
